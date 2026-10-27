@@ -14,11 +14,11 @@ Lint debug/release: по 0 ошибок и 19 предупреждений. По
 
 | Файл пакета | Назначение |
 |---|---|
-| [wayfarer-atlas-0.1.1.aab](../../dist/wayfarer-atlas-0.1.1.aab) | Release Android App Bundle для Play Console; проверяется подпись и SHA-256 |
-| [wayfarer-atlas-0.1.1-release.apk](../../dist/wayfarer-atlas-0.1.1-release.apk) | Подписанная release-версия для проверки установки |
-| [wayfarer-atlas-0.1.1-debug.apk](../../dist/wayfarer-atlas-0.1.1-debug.apk) | Debug-сборка для разработки; в магазин не загружать |
-| [wayfarer-atlas-0.1.1-source.zip](../../dist/wayfarer-atlas-0.1.1-source.zip) | Исходники и материалы без ключей подписи |
-| [SHA256SUMS.txt](../../dist/SHA256SUMS.txt), [manifest.json](../../dist/manifest.json) | Контрольные суммы и размеры файлов пакета |
+| [wayfarer-atlas-0.1.1.aab](https://github.com/ArtiomNosov/wayfarer-atlas/releases/download/v0.1.1/wayfarer-atlas-0.1.1.aab) | Release Android App Bundle для Play Console; проверяется подпись и SHA-256 |
+| [wayfarer-atlas-0.1.1-release.apk](https://github.com/ArtiomNosov/wayfarer-atlas/releases/download/v0.1.1/wayfarer-atlas-0.1.1-release.apk) | Подписанная release-версия для проверки установки |
+| [wayfarer-atlas-0.1.1-debug.apk](https://github.com/ArtiomNosov/wayfarer-atlas/releases/download/v0.1.1/wayfarer-atlas-0.1.1-debug.apk) | Debug-сборка для разработки; в магазин не загружать |
+| [wayfarer-atlas-0.1.1-source.zip](https://github.com/ArtiomNosov/wayfarer-atlas/releases/download/v0.1.1/wayfarer-atlas-0.1.1-source.zip) | Исходники и материалы без ключей подписи |
+| [SHA256SUMS.txt](https://github.com/ArtiomNosov/wayfarer-atlas/releases/download/v0.1.1/SHA256SUMS.txt), [manifest.json](https://github.com/ArtiomNosov/wayfarer-atlas/releases/download/v0.1.1/manifest.json) | Контрольные суммы и размеры файлов пакета |
 
 APK устанавливают на Android-устройство; AAB напрямую не устанавливают. Пакет не заменяет регистрацию Play Console, заполнение политики и требуемое тестирование. Приложение не опубликовано в Google Play.
 

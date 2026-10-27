@@ -1,5 +1,7 @@
 # Wayfarer Atlas / Атлас маршрутов
 
+[![Android CI](https://github.com/ArtiomNosov/wayfarer-atlas/actions/workflows/android.yml/badge.svg)](https://github.com/ArtiomNosov/wayfarer-atlas/actions/workflows/android.yml)
+
 **[Скачать APK / Download APK](https://github.com/ArtiomNosov/wayfarer-atlas/releases/latest)** · **[Инструкция пользователя](docs/user-guide.ru.md)** · **[English user guide](docs/user-guide.en.md)**
 
 Карта условий въезда, сравнение гражданств, рейтинг доступности и личный журнал поездок с напоминаниями. Нативное приложение для **Android 8.0+**, русский и английский языки. Версия **0.1.1 / code 2**, пакет `org.wayfarer.atlas`.
@@ -37,6 +39,7 @@ Entry-condition maps, citizenship comparison, access rankings and an on-device t
 | APK, AAB, архив исходников и контрольные суммы | [GitHub Releases](https://github.com/ArtiomNosov/wayfarer-atlas/releases) |
 | Исходные данные, лицензии и ограничения | [Источники](docs/data-sources.md) · [Software notices](docs/software-notices.md) |
 | Результаты проверки версии 0.1.1 | [Проверки и ограничения](docs/verification-0.1.1.md) |
+| Автоматическая сборка, тесты и CI downloads | [GitHub Actions](https://github.com/ArtiomNosov/wayfarer-atlas/actions/workflows/android.yml) · [Как устроены сборки](docs/github-builds.md) |
 | Снимки четырёх экранов RU/EN | [Настоящие снимки приложения](docs/release/store-assets/screenshots/) |
 | Подготовить публикацию в Google Play | [Отдельное руководство издателя](docs/release/google-play-guide.ru.md) · [Иллюстрированная HTML-версия](docs/release/google-play-guide.ru.html) |
 
