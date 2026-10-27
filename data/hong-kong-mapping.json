@@ -1,0 +1,1953 @@
+{
+  "version": 1,
+  "destination": "HK",
+  "sourceUrl": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "entries": [
+    {
+      "code": "AD",
+      "rows": [
+        "Andorra"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AE",
+      "rows": [
+        "United Arab Emirates"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AF",
+      "rows": [
+        "Afghanistan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AG",
+      "rows": [
+        "Antigua & Barbuda"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AI",
+      "rows": [
+        "Anguilla"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AL",
+      "rows": [
+        "Albania (holders of Albanian biometric passports only)",
+        "Albania (holders of Albanian non-biometric passports)"
+      ],
+      "notes": "Biometric Albanian passports: 14 days visa-free; non-biometric: visa required. Passport subtype is not selected in this app.",
+      "notesRu": "Биометрический паспорт Албании: без визы до 14 дней; небиометрический: нужна виза. Подтип паспорта в приложении не выбирается.",
+      "categoryOverride": "UNKNOWN",
+      "notesRuntime": "Requirements depend on biometric/non-biometric passport subtype, which this app does not select. Check the official table.",
+      "notesRuntimeRu": "Условия зависят от биометрического или небиометрического подтипа паспорта, который в приложении не выбирается. Сверьтесь с официальной таблицей."
+    },
+    {
+      "code": "AM",
+      "rows": [
+        "Armenia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AO",
+      "rows": [
+        "Angola"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AR",
+      "rows": [
+        "Argentina"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AT",
+      "rows": [
+        "Austria"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AU",
+      "rows": [
+        "Australia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "AZ",
+      "rows": [
+        "Azerbaijan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BA",
+      "rows": [
+        "Bosnia and Herzegovina"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BB",
+      "rows": [
+        "Barbados"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BD",
+      "rows": [
+        "Bangladesh"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BE",
+      "rows": [
+        "Belgium"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BF",
+      "rows": [
+        "Burkina Faso"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BG",
+      "rows": [
+        "Bulgaria"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BH",
+      "rows": [
+        "Bahrain"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BI",
+      "rows": [
+        "Burundi"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BJ",
+      "rows": [
+        "Benin"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BM",
+      "rows": [
+        "Bermuda"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BN",
+      "rows": [
+        "Brunei Darussalam"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BO",
+      "rows": [
+        "Bolivia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BR",
+      "rows": [
+        "Brazil"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BS",
+      "rows": [
+        "Bahamas"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BT",
+      "rows": [
+        "Bhutan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BW",
+      "rows": [
+        "Botswana"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BY",
+      "rows": [
+        "Belarus"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "BZ",
+      "rows": [
+        "Belize"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CA",
+      "rows": [
+        "Canada"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CD",
+      "rows": [
+        "Congo (Democratic Republic of) (Formerly known as Zaire)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CF",
+      "rows": [
+        "Central African Republic"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CG",
+      "rows": [
+        "Congo (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CH",
+      "rows": [
+        "Switzerland"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CI",
+      "rows": [
+        "Cote D'Ivoire (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CL",
+      "rows": [
+        "Chile"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CM",
+      "rows": [
+        "Cameroon"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CO",
+      "rows": [
+        "Colombia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CR",
+      "rows": [
+        "Costa Rica"
+      ],
+      "notes": "Excludes provisional passports and Documento de Identidad Y Viaje, which require a visa.",
+      "notesRu": "Не включает временные паспорта и Documento de Identidad Y Viaje: для них нужна виза.",
+      "notesRuntime": "Provisional passports and Documento de Identidad Y Viaje are outside this ordinary-passport baseline.",
+      "notesRuntimeRu": "Временные паспорта и Documento de Identidad Y Viaje не входят в это базовое правило для обычного паспорта."
+    },
+    {
+      "code": "CU",
+      "rows": [
+        "Cuba"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CV",
+      "rows": [
+        "Cape Verde (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CY",
+      "rows": [
+        "Cyprus (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "CZ",
+      "rows": [
+        "Czech Republic"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "DE",
+      "rows": [
+        "Germany"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "DJ",
+      "rows": [
+        "Djibouti"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "DK",
+      "rows": [
+        "Denmark"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "DM",
+      "rows": [
+        "Dominica (Commonwealth of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "DO",
+      "rows": [
+        "Dominican Republic"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "DZ",
+      "rows": [
+        "Algeria"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "EC",
+      "rows": [
+        "Ecuador"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "EE",
+      "rows": [
+        "Estonia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "EG",
+      "rows": [
+        "Egypt"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ER",
+      "rows": [
+        "Eritrea"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ES",
+      "rows": [
+        "Spain"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ET",
+      "rows": [
+        "Ethiopia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "FI",
+      "rows": [
+        "Finland"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "FJ",
+      "rows": [
+        "Fiji"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "FK",
+      "rows": [
+        "Falkland Islands & Dependencies"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "FM",
+      "rows": [
+        "Micronesia (Federated States of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "FO",
+      "rows": [
+        "Faroe Islands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "FR",
+      "rows": [
+        "France"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GA",
+      "rows": [
+        "Gabon"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GB",
+      "rows": [
+        "Britain (British citizens)"
+      ],
+      "notes": "180 days applies to British citizens. Other British nationality categories are listed separately with 90 days and are outside this ordinary-citizen baseline.",
+      "notesRu": "180 дней — для British citizens. Иные категории британского гражданства перечислены отдельно с лимитом 90 дней и не входят в это базовое правило.",
+      "notesRuntime": "British citizens only. Other British nationality categories are outside this baseline.",
+      "notesRuntimeRu": "Только для British citizens. Иные категории британского гражданства не входят в это базовое правило."
+    },
+    {
+      "code": "GD",
+      "rows": [
+        "Grenada"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GE",
+      "rows": [
+        "Georgia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GH",
+      "rows": [
+        "Ghana"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GI",
+      "rows": [
+        "Gibraltar"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GL",
+      "rows": [
+        "Greenland"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GM",
+      "rows": [
+        "Gambia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GN",
+      "rows": [
+        "Guinea"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GQ",
+      "rows": [
+        "Equatorial Guinea"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GR",
+      "rows": [
+        "Greece"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GS",
+      "rows": [
+        "The South Georgia and the South Sandwich Islands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GT",
+      "rows": [
+        "Guatemala"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GW",
+      "rows": [
+        "Guinea-Bissau"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "GY",
+      "rows": [
+        "Guyana"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "HN",
+      "rows": [
+        "Honduras"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "HR",
+      "rows": [
+        "Croatia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "HT",
+      "rows": [
+        "Haiti"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "HU",
+      "rows": [
+        "Hungary"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ID",
+      "rows": [
+        "Indonesia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "IE",
+      "rows": [
+        "Ireland (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "IL",
+      "rows": [
+        "Israel"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "IN",
+      "rows": [
+        "India"
+      ],
+      "notes": "Indian nationals must successfully complete online pre-arrival registration (PAR) before a visit of up to 14 days, unless an official exemption applies. PAR is shown in the electronic-authorisation category.",
+      "notesRu": "Гражданам Индии перед посещением до 14 дней требуется успешно пройти онлайн-регистрацию PAR, если не действует официальное исключение. PAR показана в категории электронного разрешения.",
+      "categoryOverride": "ETA",
+      "notesRuntime": "If shown as electronic authorisation, this refers to Hong Kong pre-arrival registration (PAR). Check the current official exemptions and conditions.",
+      "notesRuntimeRu": "Если показано электронное разрешение, имеется в виду предварительная онлайн-регистрация Гонконга (PAR). Проверьте действующие официальные исключения и условия."
+    },
+    {
+      "code": "IO",
+      "rows": [
+        "British Indian Ocean Territory"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "IQ",
+      "rows": [
+        "Iraq"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "IR",
+      "rows": [
+        "Iran"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "IS",
+      "rows": [
+        "Iceland"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "IT",
+      "rows": [
+        "Italy"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "JM",
+      "rows": [
+        "Jamaica"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "JO",
+      "rows": [
+        "Jordan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "JP",
+      "rows": [
+        "Japan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KE",
+      "rows": [
+        "Kenya"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KG",
+      "rows": [
+        "Kyrgyzstan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KH",
+      "rows": [
+        "Cambodia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KI",
+      "rows": [
+        "Kiribati"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KM",
+      "rows": [
+        "Comoros"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KN",
+      "rows": [
+        "St. Kitts and Nevis"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KP",
+      "rows": [
+        "Korea (Democratic People's Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KR",
+      "rows": [
+        "Korea (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KW",
+      "rows": [
+        "Kuwait"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KY",
+      "rows": [
+        "Cayman Islands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "KZ",
+      "rows": [
+        "Kazakhstan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LA",
+      "rows": [
+        "Laos"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LB",
+      "rows": [
+        "Lebanon"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LC",
+      "rows": [
+        "St. Lucia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LI",
+      "rows": [
+        "Liechtenstein"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LK",
+      "rows": [
+        "Sri Lanka"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LR",
+      "rows": [
+        "Liberia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LS",
+      "rows": [
+        "Lesotho"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LT",
+      "rows": [
+        "Lithuania"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LU",
+      "rows": [
+        "Luxembourg"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LV",
+      "rows": [
+        "Latvia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "LY",
+      "rows": [
+        "Libya"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MA",
+      "rows": [
+        "Morocco"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MC",
+      "rows": [
+        "Monaco"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MD",
+      "rows": [
+        "Moldova (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ME",
+      "rows": [
+        "Montenegro (Republic of )"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MG",
+      "rows": [
+        "Madagascar"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MH",
+      "rows": [
+        "Marshall Islands (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MK",
+      "rows": [
+        "North Macedonia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ML",
+      "rows": [
+        "Mali"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MM",
+      "rows": [
+        "Myanmar"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MN",
+      "rows": [
+        "Mongolia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MR",
+      "rows": [
+        "Mauritania"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MS",
+      "rows": [
+        "Montserrat"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MT",
+      "rows": [
+        "Malta"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MU",
+      "rows": [
+        "Mauritius"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MV",
+      "rows": [
+        "Maldives"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MW",
+      "rows": [
+        "Malawi"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MX",
+      "rows": [
+        "Mexico"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MY",
+      "rows": [
+        "Malaysia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "MZ",
+      "rows": [
+        "Mozambique"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NA",
+      "rows": [
+        "Namibia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NE",
+      "rows": [
+        "Niger"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NG",
+      "rows": [
+        "Nigeria"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NI",
+      "rows": [
+        "Nicaragua"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NL",
+      "rows": [
+        "Netherlands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NO",
+      "rows": [
+        "Norway"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NP",
+      "rows": [
+        "Nepal"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NR",
+      "rows": [
+        "Nauru"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "NZ",
+      "rows": [
+        "New Zealand"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "OM",
+      "rows": [
+        "Oman"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PA",
+      "rows": [
+        "Panama"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PE",
+      "rows": [
+        "Peru"
+      ],
+      "notes": "Excludes special Peruvian passports, which require a visa.",
+      "notesRu": "Не включает специальные паспорта Перу: для них нужна виза.",
+      "notesRuntime": "Special Peruvian passports are outside this ordinary-passport baseline.",
+      "notesRuntimeRu": "Специальные паспорта Перу не входят в это базовое правило для обычного паспорта."
+    },
+    {
+      "code": "PG",
+      "rows": [
+        "Papua New Guinea"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PH",
+      "rows": [
+        "Philippines"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PK",
+      "rows": [
+        "Pakistan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PL",
+      "rows": [
+        "Poland"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PN",
+      "rows": [
+        "Pitcairn, Henderson, Ducie & Oeno Islands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PS",
+      "rows": [
+        "Palestine (State of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PT",
+      "rows": [
+        "Portugal"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PW",
+      "rows": [
+        "Palau"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "PY",
+      "rows": [
+        "Paraguay"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "QA",
+      "rows": [
+        "Qatar"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "RO",
+      "rows": [
+        "Romania"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "RS",
+      "rows": [
+        "Serbia (Republic of) (holders of Serbian Biometric passports only)",
+        "Serbia (Republic of) (holders of Serbian non-biometric passports or Serbian passports issued by the Coordination Directorate in Belgrade)"
+      ],
+      "notes": "Biometric Serbian passports: 14 days visa-free; non-biometric or Coordination Directorate passports: visa required. Passport subtype is not selected in this app.",
+      "notesRu": "Биометрический сербский паспорт: без визы до 14 дней; небиометрический либо выданный Координационным управлением: нужна виза. Подтип паспорта в приложении не выбирается.",
+      "categoryOverride": "UNKNOWN",
+      "notesRuntime": "Requirements depend on passport subtype and issuing authority, which this app does not select. Check the official table.",
+      "notesRuntimeRu": "Условия зависят от подтипа паспорта и выдавшего его органа, которые в приложении не выбираются. Сверьтесь с официальной таблицей."
+    },
+    {
+      "code": "RU",
+      "rows": [
+        "Russian Federation"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "RW",
+      "rows": [
+        "Rwanda"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SA",
+      "rows": [
+        "Saudi Arabia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SB",
+      "rows": [
+        "Solomon Islands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SC",
+      "rows": [
+        "Seychelles"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SD",
+      "rows": [
+        "Sudan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SE",
+      "rows": [
+        "Sweden"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SG",
+      "rows": [
+        "Singapore"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SH",
+      "rows": [
+        "St. Helena",
+        "St. Helena Dependencies (Ascension, Tristan Da Cunha)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SI",
+      "rows": [
+        "Slovenia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SK",
+      "rows": [
+        "Slovak Republic"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SL",
+      "rows": [
+        "Sierra Leone"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SM",
+      "rows": [
+        "San Marino"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SN",
+      "rows": [
+        "Senegal"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SO",
+      "rows": [
+        "Somalia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SR",
+      "rows": [
+        "Suriname"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SS",
+      "rows": [
+        "South Sudan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ST",
+      "rows": [
+        "Sao Tome and Principe"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SV",
+      "rows": [
+        "El Salvador"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SY",
+      "rows": [
+        "Syria"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "SZ",
+      "rows": [
+        "Eswatini (Formerly known as Swaziland)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TC",
+      "rows": [
+        "Turks And Caicos Islands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TD",
+      "rows": [
+        "Chad"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TG",
+      "rows": [
+        "Togo"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TH",
+      "rows": [
+        "Thailand"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TJ",
+      "rows": [
+        "Tajikistan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TM",
+      "rows": [
+        "Turkmenistan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TN",
+      "rows": [
+        "Tunisia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TO",
+      "rows": [
+        "Tonga",
+        "Tongan National Passports",
+        "Tongan Protected Persons Passports"
+      ],
+      "notes": "Source lists Tonga with 90 days, but Tongan National and Tongan Protected Persons passports require a visa. Confirm the precise passport type.",
+      "notesRu": "Источник указывает для Тонга 90 дней, но для Tongan National и Tongan Protected Persons требуется виза. Уточните точный тип паспорта.",
+      "categoryOverride": "UNKNOWN",
+      "notesRuntime": "Requirements depend on the passport category, which this app does not select. Check the official table.",
+      "notesRuntimeRu": "Условия зависят от категории паспорта, которая в приложении не выбирается. Сверьтесь с официальной таблицей."
+    },
+    {
+      "code": "TR",
+      "rows": [
+        "Türkiye (Formerly known as Turkey)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TT",
+      "rows": [
+        "Trinidad & Tobago"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "TV",
+      "rows": [
+        "Tuvalu",
+        "Tuvalu (with national status stated as 'I-TUVALU')"
+      ],
+      "notes": "Source lists Tuvalu with 90 days, but passports stating national status I-TUVALU require a visa. Confirm the precise passport status.",
+      "notesRu": "Источник указывает для Тувалу 90 дней, но для паспорта со статусом I-TUVALU нужна виза. Уточните точный статус паспорта.",
+      "categoryOverride": "UNKNOWN",
+      "notesRuntime": "Requirements depend on the passport's stated national status, which this app does not select. Check the official table.",
+      "notesRuntimeRu": "Условия зависят от указанного в паспорте национального статуса, который в приложении не выбирается. Сверьтесь с официальной таблицей."
+    },
+    {
+      "code": "TZ",
+      "rows": [
+        "Tanzania"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "UA",
+      "rows": [
+        "Ukraine"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "UG",
+      "rows": [
+        "Uganda"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "US",
+      "rows": [
+        "U.S.A. (except U.S.A. Diplomatic passports)"
+      ],
+      "notes": "Ordinary passports; US diplomatic passports require a visa.",
+      "notesRu": "Для обычного паспорта; для дипломатического паспорта США нужна виза.",
+      "notesRuntime": "Ordinary passports only; diplomatic passports are outside this baseline.",
+      "notesRuntimeRu": "Только для обычного паспорта; дипломатические паспорта не входят в это базовое правило."
+    },
+    {
+      "code": "UY",
+      "rows": [
+        "Uruguay"
+      ],
+      "notes": "Excludes Uruguay passports issued under Decree 289/90, which require a visa.",
+      "notesRu": "Не включает паспорта Уругвая, выданные по Decree 289/90: для них нужна виза.",
+      "notesRuntime": "The special Uruguayan passport category listed separately in the official source is outside this baseline.",
+      "notesRuntimeRu": "Специальная категория паспортов Уругвая, отдельно указанная в официальном источнике, не входит в это базовое правило."
+    },
+    {
+      "code": "UZ",
+      "rows": [
+        "Uzbekistan"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "VA",
+      "rows": [
+        "Vatican City"
+      ],
+      "notes": "Excludes Vatican Service passports, which require a visa.",
+      "notesRu": "Не включает служебные паспорта Ватикана: для них нужна виза.",
+      "notesRuntime": "Vatican Service passports are outside this ordinary-passport baseline.",
+      "notesRuntimeRu": "Служебные паспорта Ватикана не входят в это базовое правило для обычного паспорта."
+    },
+    {
+      "code": "VC",
+      "rows": [
+        "St. Vincent and the Grenadines"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "VE",
+      "rows": [
+        "Venezuela"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "VG",
+      "rows": [
+        "British Virgin Islands"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "VN",
+      "rows": [
+        "Vietnam"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "VU",
+      "rows": [
+        "Vanuatu"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "WS",
+      "rows": [
+        "Samoa"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "YE",
+      "rows": [
+        "Yemen (Republic of)"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ZA",
+      "rows": [
+        "South Africa"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ZM",
+      "rows": [
+        "Zambia"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    },
+    {
+      "code": "ZW",
+      "rows": [
+        "Zimbabwe"
+      ],
+      "notesRuntime": "",
+      "notesRuntimeRu": ""
+    }
+  ],
+  "unmappedRows": [
+    "Britain (British Overseas Territories citizens, British Overseas citizens, British subjects and British Protected persons)",
+    "British Antarctic Territory",
+    "Costa Rican provisional passports",
+    "\"Documento de Identidad Y Viaje\" issued by Costa Rican Government",
+    "Special Peruvian passports",
+    "The Sovereign Base Areas of Akrotiri And Dhekelia",
+    "Uruguay passports issued under Decree 289/90",
+    "U.S.A. Diplomatic passports",
+    "US Trust Territory of Pacific Islands (holders of US Trust Territory passports Only)",
+    "Vatican Service passports",
+    "All 'stateless' travel document holders",
+    "Nationals of other foreign countries do not require visas for a visit"
+  ],
+  "header": [
+    "National of foreign country (territory)/Type of travel document",
+    "Visa free period for visiting the Hong Kong Special Administrative Region",
+    "Visa requirements"
+  ],
+  "sourceLabels": [
+    "Afghanistan",
+    "Albania (holders of Albanian biometric passports only)",
+    "Albania (holders of Albanian non-biometric passports)",
+    "Algeria",
+    "Andorra",
+    "Angola",
+    "Anguilla",
+    "Antigua & Barbuda",
+    "Argentina",
+    "Armenia",
+    "Australia",
+    "Austria",
+    "Azerbaijan",
+    "Bahamas",
+    "Bahrain",
+    "Bangladesh",
+    "Barbados",
+    "Belarus",
+    "Belgium",
+    "Belize",
+    "Benin",
+    "Bermuda",
+    "Bhutan",
+    "Bolivia",
+    "Bosnia and Herzegovina",
+    "Botswana",
+    "Brazil",
+    "Britain (British citizens)",
+    "Britain (British Overseas Territories citizens, British Overseas citizens, British subjects and British Protected persons)",
+    "British Antarctic Territory",
+    "British Indian Ocean Territory",
+    "British Virgin Islands",
+    "Brunei Darussalam",
+    "Bulgaria",
+    "Burkina Faso",
+    "Burundi",
+    "Cambodia",
+    "Cameroon",
+    "Canada",
+    "Cape Verde (Republic of)",
+    "Cayman Islands",
+    "Central African Republic",
+    "Chad",
+    "Chile",
+    "Colombia",
+    "Comoros",
+    "Congo (Democratic Republic of) (Formerly known as Zaire)",
+    "Congo (Republic of)",
+    "Costa Rica",
+    "Costa Rican provisional passports",
+    "\"Documento de Identidad Y Viaje\" issued by Costa Rican Government",
+    "Cote D'Ivoire (Republic of)",
+    "Croatia",
+    "Cuba",
+    "Cyprus (Republic of)",
+    "Czech Republic",
+    "Denmark",
+    "Djibouti",
+    "Dominica (Commonwealth of)",
+    "Dominican Republic",
+    "Ecuador",
+    "Egypt",
+    "El Salvador",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Estonia",
+    "Eswatini (Formerly known as Swaziland)",
+    "Ethiopia",
+    "Falkland Islands & Dependencies",
+    "Faroe Islands",
+    "Fiji",
+    "Finland",
+    "France",
+    "Gabon",
+    "Gambia",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Gibraltar",
+    "Greece",
+    "Greenland",
+    "Grenada",
+    "Guatemala",
+    "Guinea",
+    "Guinea-Bissau",
+    "Guyana",
+    "Haiti",
+    "Honduras",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Iran",
+    "Iraq",
+    "Ireland (Republic of)",
+    "Israel",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kiribati",
+    "Korea (Democratic People's Republic of)",
+    "Korea (Republic of)",
+    "Kuwait",
+    "Kyrgyzstan",
+    "Laos",
+    "Latvia",
+    "Lebanon",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Madagascar",
+    "Malawi",
+    "Malaysia",
+    "Maldives",
+    "Mali",
+    "Malta",
+    "Marshall Islands (Republic of)",
+    "Mauritania",
+    "Mauritius",
+    "Mexico",
+    "Micronesia (Federated States of)",
+    "Moldova (Republic of)",
+    "Monaco",
+    "Mongolia",
+    "Montenegro (Republic of )",
+    "Montserrat",
+    "Morocco",
+    "Mozambique",
+    "Myanmar",
+    "Namibia",
+    "Nauru",
+    "Nepal",
+    "Netherlands",
+    "New Zealand",
+    "Nicaragua",
+    "Niger",
+    "Nigeria",
+    "North Macedonia",
+    "Norway",
+    "Oman",
+    "Pakistan",
+    "Palau",
+    "Palestine (State of)",
+    "Panama",
+    "Papua New Guinea",
+    "Paraguay",
+    "Peru",
+    "Special Peruvian passports",
+    "Philippines",
+    "Pitcairn, Henderson, Ducie & Oeno Islands",
+    "Poland",
+    "Portugal",
+    "Qatar",
+    "Romania",
+    "Russian Federation",
+    "Rwanda",
+    "Samoa",
+    "San Marino",
+    "Sao Tome and Principe",
+    "Saudi Arabia",
+    "Senegal",
+    "Serbia (Republic of) (holders of Serbian Biometric passports only)",
+    "Serbia (Republic of) (holders of Serbian non-biometric passports or Serbian passports issued by the Coordination Directorate in Belgrade)",
+    "Seychelles",
+    "Sierra Leone",
+    "Singapore",
+    "Slovak Republic",
+    "Slovenia",
+    "Solomon Islands",
+    "Somalia",
+    "South Africa",
+    "South Sudan",
+    "Spain",
+    "Sri Lanka",
+    "St. Helena",
+    "St. Helena Dependencies (Ascension, Tristan Da Cunha)",
+    "St. Kitts and Nevis",
+    "St. Lucia",
+    "St. Vincent and the Grenadines",
+    "Sudan",
+    "Suriname",
+    "Sweden",
+    "Switzerland",
+    "Syria",
+    "Tajikistan",
+    "Tanzania",
+    "Thailand",
+    "The South Georgia and the South Sandwich Islands",
+    "The Sovereign Base Areas of Akrotiri And Dhekelia",
+    "Togo",
+    "Tonga",
+    "Tongan National Passports",
+    "Tongan Protected Persons Passports",
+    "Trinidad & Tobago",
+    "Tunisia",
+    "Türkiye (Formerly known as Turkey)",
+    "Turkmenistan",
+    "Turks And Caicos Islands",
+    "Tuvalu",
+    "Tuvalu (with national status stated as 'I-TUVALU')",
+    "Uganda",
+    "Ukraine",
+    "United Arab Emirates",
+    "Uruguay",
+    "Uruguay passports issued under Decree 289/90",
+    "U.S.A. (except U.S.A. Diplomatic passports)",
+    "U.S.A. Diplomatic passports",
+    "US Trust Territory of Pacific Islands (holders of US Trust Territory passports Only)",
+    "Uzbekistan",
+    "Vanuatu",
+    "Vatican City",
+    "Vatican Service passports",
+    "Venezuela",
+    "Vietnam",
+    "Yemen (Republic of)",
+    "Zambia",
+    "Zimbabwe",
+    "All 'stateless' travel document holders",
+    "Nationals of other foreign countries do not require visas for a visit"
+  ],
+  "sourceAsAt": "2025-12-31",
+  "notApplicableValue": "Not applicable",
+  "visaRequiredValues": [
+    "All nationals (except holders of Diplomatic and Official passports) are required to hold a valid visa for the HKSAR for whatever purpose (including those who are in transit and remain on the airside). Holders of Diplomatic and Official passports may visit the HKSAR visa-free for a stay not exceeding 14 days.",
+    "All nationals (except holders of Diplomatic and Official passports) are required to hold a valid visa for the HKSAR for whatever purpose (including those who are in transit and remain on the airside). Holders of Diplomatic and Official passports may visit the HKSAR visa-free for a stay not exceeding 30 days.",
+    "All nationals are required to hold a valid visa for the HKSAR for whatever purpose (except those who are in transit and remain on the airside)",
+    "All nationals are required to hold a valid visa for the HKSAR for whatever purpose (except those who are in transit and remain on the airside). Holders of Diplomatic and Official passports may visit the HKSAR visa-free for a stay not exceeding 14 days.",
+    "All nationals are required to hold a valid visa for the HKSAR for whatever purpose (including those who are in transit and remain on the airside)"
+  ],
+  "preArrivalRegistrationValue": "Indian nationals are required to apply for and successfully complete pre-arrival registration online before they can visit the HKSAR visa free.",
+  "mappingPolicy": "Exact original CSV cell-0 strings after trimming; no catch-all 7-day rule; no Mainland/Taiwan inference; ambiguous ordinary-passport subtypes remain UNKNOWN."
+}

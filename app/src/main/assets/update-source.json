@@ -1,0 +1,14 @@
+{
+  "format": "visachecker-community-v1",
+  "name": "Visa Requirements Dataset \u2014 VisaChecker.org (community reference)",
+  "url": "https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/main/data/visa-requirements.json",
+  "allowedHosts": [
+    "raw.githubusercontent.com"
+  ],
+  "minimumRules": 35000,
+  "minimumKnownRules": 35000,
+  "minimumCitizenships": 190,
+  "attributionUrl": "https://github.com/maxix7/visa-requirements-dataset",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+}

@@ -1,0 +1,11 @@
+{
+  "capturedAt": "2026-10-26T07:54:25.514192Z",
+  "applicationId": "org.wayfarer.atlas",
+  "versionName": "0.1.1",
+  "versionCode": 2,
+  "androidApi": 36,
+  "device": "Android ATD built for arm64",
+  "method": "Compose captureToImage on real MainActivity; AndroidX enables ATD rendering for capture",
+  "data": "Real bundled or validated cached reference; no fabricated journal entries",
+  "storeExport": "Opaque alpha channel removed; all RGB pixels verified unchanged; no retouching"
+}

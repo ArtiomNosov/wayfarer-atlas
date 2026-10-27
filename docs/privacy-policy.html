@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Wayfarer Atlas / Атлас маршрутов — проект политики конфиденциальности</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f7f8f2;color:#193a34;font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}main{max-width:860px;margin:auto;padding:42px 24px 90px}h1{font-size:clamp(32px,5vw,46px);line-height:1.15;letter-spacing:-1px}h2{font-size:27px;margin-top:45px}h3{font-size:20px;margin-top:30px}a{color:#246e66;text-underline-offset:3px}nav{display:flex;gap:20px;border-bottom:1px solid #d5e2d8;padding-bottom:18px}strong{font-weight:650}.draft{border:2px solid #b7892b;border-radius:12px;background:#fff4d4;padding:20px;margin:26px 0}.field{background:#ffe6d3;padding:2px 6px;border-radius:4px;font-family:ui-monospace,monospace;font-size:.88em;overflow-wrap:anywhere}section+section{border-top:1px solid #cfddd1;margin-top:60px;padding-top:20px}dt{font-weight:650;margin-top:12px}dd{margin:0}li{margin:7px 0}.date{color:#60746c;font-size:14px}.note{padding:15px 18px;border-left:3px solid #478c75;background:#eaf1e6}table{border-collapse:collapse;width:100%;font-size:15px}td,th{text-align:left;border-bottom:1px solid #d0ddcf;padding:12px;vertical-align:top}th{background:#e8eee3}.table-wrap{overflow:auto}footer{font-size:13px;color:#61776a;margin-top:45px}a:focus-visible{outline:3px solid #b7892b;outline-offset:3px}@media print{body{background:white;font-size:11pt}main{padding:0}.draft{break-inside:avoid}h2,h3{break-after:avoid}}
+</style>
+</head>
+<body><main>
+<nav aria-label="Language"><a href="#ru" lang="ru">Русский</a><a href="#en" lang="en">English</a></nav>
+<h1>Атлас маршрутов<br><span lang="en">Wayfarer Atlas</span></h1>
+<div class="draft" role="note"><strong>Черновик — не размещать как окончательную политику.</strong> До выпуска заполнить издателя, рабочий контакт и дату; сверить финальную политику с издателем и релизом. Для версии 0.1.1 проверены два хоста загрузки — GitHub и Immigration Department Hong Kong, итоговый manifest и зависимости. Результаты и границы проверки указаны в <a href="verification-0.1.1.md">отчёте релиза</a>. Сроки технических логов внешних операторов не назначаются издателем. Удалить эту плашку и <code>noindex</code> только после заполнения и согласования фактического поведения. Незаполненные поля ниже — блокеры публикации, а не данные вымышленного издателя.</div>
+
+<section id="ru" lang="ru" aria-labelledby="ru-title">
+<h2 id="ru-title">Политика конфиденциальности</h2>
+<p class="date">Дата вступления: <span class="field">[EFFECTIVE_DATE]</span></p>
+<dl><dt>Издатель / ответственный за приложение</dt><dd><span class="field">[PUBLISHER_NAME]</span></dd><dt>Контакт по вопросам приложения и данных</dt><dd><span class="field">[SUPPORT_EMAIL]</span></dd></dl>
+
+<h3>Что делает приложение</h3>
+<p>«Атлас маршрутов» показывает справочную карту условий въезда, сравнение стран, рейтинг и справочник из нескольких источников. При первом запуске нужно ознакомиться с предупреждением о неполноте и изменчивости правил; его можно снова открыть в настройках. Приложение позволяет вести локальный журнал поездок и настраивать локальные напоминания. Интерфейс доступен на русском и английском.</p>
+<p>В приложении нет аккаунтов, облачной синхронизации, рекламы, покупок и подписок. Оно не запрашивает номера, сканы или фотографии документов, не использует камеру и OCR/MRZ. Для просмотра условий достаточно выбрать страну гражданства; это выбор справочного значения, а не ввод реквизитов паспорта.</p>
+
+<h3>Локальные данные и их удаление</h3>
+<p>Выбранные страны, язык, настройки, сохранённые поездки, введённые даты и заметки, а также параметры напоминаний и признак ознакомления с предупреждением о справочных данных хранятся в закрытом хранилище приложения на устройстве. Эти записи не используются для персонализации серверных запросов и не отправляются издателю. Геолокация, контакты, рекламные идентификаторы и содержимое документов не запрашиваются.</p>
+<p>Записи поездок остаются на устройстве, пока вы не удалите их в приложении или не очистите его данные. Удаление приложения удаляет его локальное хранилище. В конфигурации приложения отключены облачное резервное копирование Android и перенос локальной базы средствами Android. Собственной службы облачного восстановления, переноса или синхронизации нет.</p>
+
+<h3>Загрузка справочников и сетевые соединения</h3>
+<p>При нажатии «Обновить справочник» приложение получает общедоступные справочные файлы по HTTPS без аккаунта и персонального API-ключа. Обновляются community-матрица и официальный CSV Гонконга. Официальный срез Новой Зеландии и самостоятельно изложенная сводка одной поездки Россия — Макао по официальному источнику включены в приложение и обновляются с его версиями; кнопка не загружает их заново из интернета. Запрос не включает поездки, заметки, выбранное гражданство или устойчивый идентификатор пользователя/устройства. Последняя корректная версия справочника хранится локально для работы без сети.</p>
+<p>Сервер, обслуживающий загрузку, и его инфраструктура могут видеть IP-адрес, время запроса и технические HTTP-заголовки. Отсутствие аккаунта не делает эти соединения невидимыми серверу. При нажатии «Обновить справочник» запрашивается общий файл <a href="https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/main/data/visa-requirements.json">VisaChecker community JSON</a> размером около 2,93 MB. Первый разрешённый хост обновлений — <code>raw.githubusercontent.com</code>, хостинг предоставляет GitHub. API-ключ, аккаунт и персонализированные параметры для загрузки не используются. Правила оператора: <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub General Privacy Statement</a>. Второй файл — <a href="https://www.immd.gov.hk/opendata/eng/law-and-security/visas/visit_visa_entry_permit_requirements_HKSAR.csv">официальный CSV Гонконга</a>, около 19,5 KB, с хоста <code>www.immd.gov.hk</code>, оператор — Immigration Department, Government of the Hong Kong Special Administrative Region. <a href="https://www.immd.gov.hk/eng/about-us/statement/privacy-policy.html">Официальная privacy policy HK Immigration</a> описывает cookies и статистику веб-сайта; приложение загружает CSV напрямую и не встраивает страницу, её поиск или аналитические скрипты. Для прямой CSV-загрузки отдельный срок хранения технических журналов на этой странице не указан. Издатель приложения не имеет доступа к инфраструктурным журналам этих операторов и не управляет сроками их хранения; обработка и обращения по этим данным регулируются их действующими политиками. Фиксированный срок хранения журналов здесь не заявляется.</p>
+<p class="note">Оба файла общие для пользователей и не персонализированы. HTTPS-запросы разрешены только к указанным хостам; переходы по перенаправлениям отключены. Перед публикацией издатель сверяет декларацию Data safety с правилами Google и действующими политиками обоих операторов. Отсутствие аккаунтов не означает отсутствия сетевого соединения.</p>
+
+<h3>Уведомления и внешние ссылки</h3>
+<p>С вашего разрешения Android показывает локальные напоминания о сохранённых поездках. Напоминание планируется на 09:00 дня начала поездки по часовому поясу устройства на момент сохранения. Это фоновая задача: Android может отложить её выполнение, поэтому точное время не гарантируется. Приложение не использует внешний push-сервер и не отправляет push-токен. Разрешение на уведомления можно изменить в настройках Android; основные справочные функции работают и без него.</p>
+<p>По вашему действию ссылка на первоисточник открывается во внешнем браузере. Там действуют правила соответствующего сервиса. Если вы сами пишете в поддержку, получатель видит адрес отправителя и сведения, которые вы включили в сообщение; это не регистрация в приложении.</p>
+
+<h3>Аналитика, безопасность и ваши действия</h3>
+<p>В приложении нет аналитических, рекламных и сторонних crash-reporting SDK. Локальные данные защищаются механизмами Android и блокировкой устройства. Справочные загрузки используют HTTPS. Приложение не продаёт локальные записи поездок.</p>
+<p>Вы можете удалить локальные записи, очистить данные приложения, запретить уведомления или прекратить использование. Удаление аккаунта не требуется, поскольку аккаунтов нет. Вопросы о возможных технических логах направляйте по контакту выше; порядок их обработки зависит от подтверждённых правил указанных операторов.</p>
+
+<h3>Изменения политики</h3>
+<p>При изменении обработки данных издатель обновит эту страницу и дату вступления. Публичная версия политики должна описывать фактическую выпущенную сборку.</p>
+</section>
+
+<section id="en" lang="en" aria-labelledby="en-title">
+<h2 id="en-title">Privacy policy</h2>
+<p class="date">Effective date: <span class="field">[EFFECTIVE_DATE]</span></p>
+<dl><dt>Publisher / party responsible for the app</dt><dd><span class="field">[PUBLISHER_NAME]</span></dd><dt>App and privacy contact</dt><dd><span class="field">[SUPPORT_EMAIL]</span></dd></dl>
+
+<h3>What the app does</h3>
+<p>Wayfarer Atlas provides a reference map of entry requirements, country comparisons, rankings and country information from multiple sources. On first launch, you must acknowledge a warning about incomplete and changing entry rules; it can be reopened in Settings. You can keep a local trip journal and set local reminders. The interface supports English and Russian.</p>
+<p>There are no accounts, cloud sync, ads, purchases or subscriptions. The app does not request document numbers, scans or photos and does not use the camera or OCR/MRZ. You select a citizenship country as a reference value; you do not enter passport details.</p>
+
+<h3>Local information and deletion</h3>
+<p>Country selections, language, preferences, saved trips, dates and notes you enter, reminder settings and the acknowledgement of the reference-data disclaimer are stored in the app's private storage on your device. These records are not used to personalise server requests or sent to the publisher. Location, contacts, advertising identifiers and document contents are not requested.</p>
+<p>Trip records remain on your device until you delete them in the app or clear its data. Uninstalling the app removes its local storage. The app configuration disables Android cloud backup and Android transfer of its local database. The app has no separate cloud recovery, transfer or sync service.</p>
+
+<h3>Reference downloads and network connections</h3>
+<p>When you select “Update reference data”, the app downloads public reference files over HTTPS without an account or a personal API key: the community matrix and the official Hong Kong CSV. The official New Zealand snapshot and an independently written Russia-to-Macao factual summary based on an official source are bundled and updated with app releases; the button does not fetch them again from the internet. The request does not include trips, notes, selected citizenship or a persistent user/device identifier. The last valid reference version is cached locally for offline use.</p>
+<p>The download server and its infrastructure may receive your IP address, request time and technical HTTP headers. Having no account does not make these connections invisible to the server. Selecting “Update reference data” requests the shared <a href="https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/main/data/visa-requirements.json">VisaChecker community JSON</a>, approximately 2.93 MB. The first permitted update host is <code>raw.githubusercontent.com</code>, hosted by GitHub. Downloads use no API key, account or personalised parameters. The operator’s policy is the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub General Privacy Statement</a>. The second file is the <a href="https://www.immd.gov.hk/opendata/eng/law-and-security/visas/visit_visa_entry_permit_requirements_HKSAR.csv">official Hong Kong CSV</a>, approximately 19.5 KB, from <code>www.immd.gov.hk</code>, operated by the Immigration Department, Government of the Hong Kong Special Administrative Region. The <a href="https://www.immd.gov.hk/eng/about-us/statement/privacy-policy.html">official HK Immigration privacy policy</a> describes website cookies and statistics. The app downloads the CSV directly; it does not embed that website, its search or analytics scripts. The page does not state a separate retention period for direct CSV request logs. The app publisher does not access these operators’ infrastructure logs or control their retention. Processing and requests concerning such information follow each operator’s current policy. This policy does not claim a fixed infrastructure log retention period.</p>
+<p class="note">Both files are shared reference files, not personalised responses. HTTPS requests are allowed only to the stated hosts and redirects are disabled. Before publication, the publisher checks Data safety disclosures against Google’s definitions and both operators’ current policies. Having no accounts does not mean there is no network connection.</p>
+
+<h3>Notifications and external links</h3>
+<p>With your permission, Android displays local reminders for saved trips. A reminder is scheduled for 09:00 on the start date using the device time zone when the trip is saved. This is a background task: Android may delay it, so exact delivery time is not guaranteed. The app does not use a remote push service or send a push token. You can change notification permission in Android settings. Reference features remain available without it.</p>
+<p>When you choose to open an external source, your browser handles the link under the relevant service's policies. If you contact support yourself, the recipient receives your email address and the information you include; this does not create an app account.</p>
+
+<h3>Analytics, security and your choices</h3>
+<p>The app does not include analytics, advertising or third-party crash-reporting SDKs. Local information relies on Android security and your device lock. Reference downloads use HTTPS. The app does not sell your local trip records.</p>
+<p>You can delete local records, clear app data, turn off notifications or stop using the app. Account deletion does not apply because there are no accounts. Questions about possible technical logs can be sent to the contact above; processing follows the verified terms of the listed operators.</p>
+
+<h3>Policy changes</h3>
+<p>If data processing changes, the publisher will update this page and its effective date. The published policy must describe the actual released build.</p>
+</section>
+<footer>Этот файл остаётся проектом до заполнения реального издателя, контакта и даты. Приложение ещё не опубликовано в Google Play. / This file remains a draft until the real publisher, contact and date are filled in. The app has not been published on Google Play.</footer>
+</main></body></html>

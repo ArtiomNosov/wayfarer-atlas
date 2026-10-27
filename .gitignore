@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+.tooling/
+local.properties
+**/build/
+*.jks
+*.keystore
+keystore.properties
+release-private/
+.DS_Store
+__pycache__/
+*.pyc
+dist/
+.env*

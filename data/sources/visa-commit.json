@@ -1,0 +1,97 @@
+{
+  "sha": "3287b1d867d73507e5794f11c17e5df4ed11b36d",
+  "node_id": "C_kwDOTwMOmNoAKDMyODdiMWQ4NjdkNzM1MDdlNTc5NGYxMWMxN2U1ZGY0ZWQxMWIzNmQ",
+  "commit": {
+    "author": {
+      "name": "Maxim Khokhlov",
+      "email": "maxim.khokhlov.seller@gmail.com",
+      "date": "2026-08-11T05:50:13Z"
+    },
+    "committer": {
+      "name": "Maxim Khokhlov",
+      "email": "maxim.khokhlov.seller@gmail.com",
+      "date": "2026-08-11T05:50:13Z"
+    },
+    "message": "Regenerate for 2026-08-11; README link is now markdown, generated MDX-safe by the builder\n\nThe autolink fix on 2026-08-10 was applied to this file, which tools/build_dataset.js\noverwrites on every build - so it came straight back and DataHub would have failed to\nrender again on the next push. The real fix is in the VisaChecker repo:\ntools/dataset_templates/README.md, plus a build guard that refuses to write a README\ncontaining a '<' or a brace outside code.",
+    "tree": {
+      "sha": "6c24ffff46ea0681b9d9ead3f09724fb96938768",
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/trees/6c24ffff46ea0681b9d9ead3f09724fb96938768"
+    },
+    "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/commits/3287b1d867d73507e5794f11c17e5df4ed11b36d",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    }
+  },
+  "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/commits/3287b1d867d73507e5794f11c17e5df4ed11b36d",
+  "html_url": "https://github.com/maxix7/visa-requirements-dataset/commit/3287b1d867d73507e5794f11c17e5df4ed11b36d",
+  "comments_url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/commits/3287b1d867d73507e5794f11c17e5df4ed11b36d/comments",
+  "author": null,
+  "committer": null,
+  "parents": [
+    {
+      "sha": "f2fc5b1eaa3318f08500cb8320d2538a56e650e4",
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/commits/f2fc5b1eaa3318f08500cb8320d2538a56e650e4",
+      "html_url": "https://github.com/maxix7/visa-requirements-dataset/commit/f2fc5b1eaa3318f08500cb8320d2538a56e650e4"
+    }
+  ],
+  "stats": {
+    "total": 45,
+    "additions": 37,
+    "deletions": 8
+  },
+  "files": [
+    {
+      "sha": "4857ba892830359802df2e1abecafd15962894fb",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 4,
+      "changes": 7,
+      "blob_url": "https://github.com/maxix7/visa-requirements-dataset/blob/3287b1d867d73507e5794f11c17e5df4ed11b36d/README.md",
+      "raw_url": "https://github.com/maxix7/visa-requirements-dataset/raw/3287b1d867d73507e5794f11c17e5df4ed11b36d/README.md",
+      "contents_url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/contents/README.md?ref=3287b1d867d73507e5794f11c17e5df4ed11b36d",
+      "patch": "@@ -143,8 +143,7 @@ The table has two layers.\n \n The **base matrix** gives coverage: every pair has a value, including the\n thousands of pairs nobody ever looks up. It was taken 2026-02-17 from\n-[Passport Index](https://github.com/imorte/passport-index-data)\n-(imorte/passport-index-data), published under MIT.\n+[Passport Index (imorte/passport-index-data)](https://github.com/imorte/passport-index-data), published under MIT.\n \n We did not compile that matrix and we do not claim it. What it is not is\n verified. It is the floor this dataset improves on, one sourced\n@@ -235,7 +234,7 @@ Data files are regenerated whenever a correction lands. Each release is tagged\n you need reproducibility, pin a tag rather than tracking `main`:\n \n ```\n-https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/2026-08-10/data/visa-requirements.csv\n+https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/2026-08-11/data/visa-requirements.csv\n ```\n \n ## Found an error?\n@@ -257,7 +256,7 @@ Data under [CC BY 4.0](LICENSE). Code in `scripts/` under\n \n ```\n Visa Requirements Dataset, VisaChecker.org, CC BY 4.0,\n-https://github.com/maxix7/visa-requirements-dataset, version 2026-08-10.\n+https://github.com/maxix7/visa-requirements-dataset, version 2026-08-11.\n ```\n \n Machine-readable citation metadata is in `CITATION.cff`."
+    },
+    {
+      "sha": "8f077768be0cc2be4876a8de757860c364a13a0c",
+      "filename": "data/datapackage.json",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/maxix7/visa-requirements-dataset/blob/3287b1d867d73507e5794f11c17e5df4ed11b36d/data%2Fdatapackage.json",
+      "raw_url": "https://github.com/maxix7/visa-requirements-dataset/raw/3287b1d867d73507e5794f11c17e5df4ed11b36d/data%2Fdatapackage.json",
+      "contents_url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/contents/data%2Fdatapackage.json?ref=3287b1d867d73507e5794f11c17e5df4ed11b36d",
+      "patch": "@@ -11,8 +11,8 @@\n       \"title\": \"Creative Commons Attribution 4.0 International\"\n     }\n   ],\n-  \"version\": \"2026-08-10\",\n-  \"created\": \"2026-08-10\",\n+  \"version\": \"2026-08-11\",\n+  \"created\": \"2026-08-11\",\n   \"contributors\": [\n     { \"title\": \"VisaChecker.org\", \"path\": \"https://visachecker.org\", \"role\": \"author\" }\n   ],"
+    },
+    {
+      "sha": "11aaef005c78fe022abb09b62def256ea94d3e0e",
+      "filename": "data/visa-requirements.json",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/maxix7/visa-requirements-dataset/blob/3287b1d867d73507e5794f11c17e5df4ed11b36d/data%2Fvisa-requirements.json",
+      "raw_url": "https://github.com/maxix7/visa-requirements-dataset/raw/3287b1d867d73507e5794f11c17e5df4ed11b36d/data%2Fvisa-requirements.json",
+      "contents_url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/contents/data%2Fvisa-requirements.json?ref=3287b1d867d73507e5794f11c17e5df4ed11b36d",
+      "patch": "@@ -2,7 +2,7 @@\n  \"name\": \"visa-requirements\",\n  \"license\": \"CC-BY-4.0\",\n  \"homepage\": \"https://visachecker.org\",\n- \"version\": \"2026-08-10\",\n+ \"version\": \"2026-08-11\",\n  \"snapshot\": \"2026-08-10\",\n  \"updated\": \"2026-08-10\",\n  \"vocabulary\": {"
+    },
+    {
+      "sha": "5d099f7bca7753ab33134741610c8fbc5aee5685",
+      "filename": "scripts/build_dataset.js",
+      "status": "modified",
+      "additions": 31,
+      "deletions": 1,
+      "changes": 32,
+      "blob_url": "https://github.com/maxix7/visa-requirements-dataset/blob/3287b1d867d73507e5794f11c17e5df4ed11b36d/scripts%2Fbuild_dataset.js",
+      "raw_url": "https://github.com/maxix7/visa-requirements-dataset/raw/3287b1d867d73507e5794f11c17e5df4ed11b36d/scripts%2Fbuild_dataset.js",
+      "contents_url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/contents/scripts%2Fbuild_dataset.js?ref=3287b1d867d73507e5794f11c17e5df4ed11b36d",
+      "patch": "@@ -269,9 +269,39 @@ function fill(s) {\n ['README.md', 'data/datapackage.json'].forEach(function (rel) {\n   var tpl = path.join(ROOT, 'tools', 'dataset_templates', path.basename(rel));\n   if (!fs.existsSync(tpl)) throw new Error('missing template ' + tpl);\n-  write(rel, fill(fs.readFileSync(tpl, 'utf8')));\n+  var out = fill(fs.readFileSync(tpl, 'utf8'));\n+  if (rel === 'README.md') assertMdxSafe(out);\n+  write(rel, out);\n });\n \n+/* DataHub Cloud renders this README as MDX, not as markdown, and MDX reads `<`\n+ * as the start of a JSX tag. A perfectly ordinary autolink — <https://example> —\n+ * therefore fails the whole page with \"Unexpected character `/` (U+002F) before\n+ * local name\", and the post shows an error box instead of the dataset. It cost a\n+ * day to find, twice, because GitHub renders the same file without complaint.\n+ *\n+ * Braces are the other MDX trap: outside a code span or fence they are read as a\n+ * JS expression. Inside one they are inert, which is why the check walks fences\n+ * instead of grepping the whole file.\n+ *\n+ * This fails the build rather than warning. A warning would scroll past in a\n+ * 300-line deploy log and we would ship a broken page believing it fixed. */\n+function assertMdxSafe(md) {\n+  var lines = md.split('\\n'), inFence = false, bad = [];\n+  lines.forEach(function (line, i) {\n+    if (/^\\s*```/.test(line)) { inFence = !inFence; return; }\n+    if (inFence) return;\n+    if (line.indexOf('<') > -1) bad.push((i + 1) + ': `<` — MDX reads it as JSX. Use [text](url).  ' + line.trim());\n+    var outsideCode = line.replace(/`[^`]*`/g, '');\n+    if (/[{}]/.test(outsideCode)) bad.push((i + 1) + ': brace outside code — MDX reads it as an expression.  ' + line.trim());\n+  });\n+  if (inFence) bad.push('unbalanced ``` fence — everything after it is treated as code');\n+  if (bad.length) {\n+    throw new Error('dataset README is not MDX-safe, DataHub would refuse to render it:\\n  '\n+      + bad.join('\\n  ') + '\\nFix tools/dataset_templates/README.md, not dataset/README.md.');\n+  }\n+}\n+\n /* The README and the licence both point at `scripts/`. Ship the builder there\n  * so that reference is real. It does not run standalone - it reads the site's\n  * own data layer - and the header says so rather than pretending otherwise. */"
+    }
+  ]
+}

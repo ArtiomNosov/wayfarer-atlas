@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+<rect width="1024" height="500" fill="#123e34"/>
+<g fill="none" stroke="#456c5c" stroke-width="1.5">
+<circle cx="838" cy="260" r="215"/><ellipse cx="838" cy="260" rx="100" ry="215"/><ellipse cx="838" cy="260" rx="180" ry="215"/>
+<ellipse cx="838" cy="260" rx="215" ry="80"/><ellipse cx="838" cy="260" rx="215" ry="155"/>
+<path d="M623 260h430M838 45v430"/>
+</g>
+<g font-family="Georgia,serif" fill="#f3f4e8"><text x="64" y="190" font-size="66">Wayfarer</text><text x="64" y="264" font-size="66">Atlas</text></g>
+<g font-family="sans-serif" fill="#d7e1d6"><text x="68" y="333" font-size="24">Explore entry conditions.</text><text x="68" y="369" font-size="24">Keep your own travel journal.</text></g>
+<path fill="none" stroke="#d4e481" stroke-width="5" stroke-dasharray="9 12" d="M657 366Q705 220 866 179"/>
+<circle cx="657" cy="366" r="9" fill="#d4e481"/><path fill="#d4e481" d="m856 163 45 8-30 34-1-20-20-1z"/>
+</svg>

@@ -1,0 +1,135 @@
+{
+  "profile": "tabular-data-package",
+  "name": "visa-requirements",
+  "title": "Visa Requirements Dataset",
+  "description": "Short-stay tourist entry requirements for every ordinary-passport pair of countries and territories, normalised into six values with the permitted length of stay where one is published.",
+  "homepage": "https://visachecker.org",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "version": "2026-08-11",
+  "created": "2026-08-11",
+  "contributors": [
+    { "title": "VisaChecker.org", "path": "https://visachecker.org", "role": "author" }
+  ],
+  "sources": [
+    {
+      "title": "Passport Index (imorte/passport-index-data)",
+      "path": "https://github.com/imorte/passport-index-data",
+      "version": "2026-02-17",
+      "licenses": [{ "name": "MIT", "path": "https://github.com/imorte/passport-index-data", "title": "Passport Index (imorte/passport-index-data)" }]
+    }
+  ],
+  "keywords": ["visa", "visa requirements", "passport", "travel", "border control", "immigration", "open data"],
+  "resources": [
+    {
+      "name": "visa-requirements",
+      "path": "visa-requirements.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": { "delimiter": ",", "lineTerminator": "\n", "quoteChar": "\"", "header": true },
+      "schema": {
+        "fields": [
+          {
+            "name": "passport",
+            "type": "string",
+            "title": "Passport country",
+            "description": "ISO 3166-1 alpha-2 code of the country or territory that issued the ordinary passport.",
+            "constraints": { "required": true, "pattern": "^[A-Z]{2}$" }
+          },
+          {
+            "name": "destination",
+            "type": "string",
+            "title": "Destination country",
+            "description": "ISO 3166-1 alpha-2 code of the country or territory being entered.",
+            "constraints": { "required": true, "pattern": "^[A-Z]{2}$" }
+          },
+          {
+            "name": "requirement",
+            "type": "string",
+            "title": "Requirement",
+            "description": "What the traveller must obtain before or on arrival. See README for the full definition of each value.",
+            "constraints": {
+              "required": true,
+              "enum": ["visa_free", "visa_on_arrival", "eta", "evisa", "visa_required", "no_admission"]
+            }
+          },
+          {
+            "name": "max_stay_days",
+            "type": "integer",
+            "title": "Maximum stay in days",
+            "description": "Days permitted on a single entry, where the destination publishes a number. Empty means the entitlement exists but no fixed length is published, or the length is set by the officer at the border. Empty is not zero.",
+            "constraints": { "required": false, "minimum": 1 }
+          },
+          {
+            "name": "verified",
+            "type": "date",
+            "format": "%Y-%m-%d",
+            "title": "Last verified",
+            "description": "The date a human last re-read the primary source for this pair and found it still true. Empty means the pair comes from the base snapshot and has not been individually re-checked since.",
+            "constraints": { "required": false }
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "format": "uri",
+            "title": "Primary source",
+            "description": "The government or intergovernmental page the requirement was read from. Empty for pairs carried from the base snapshot.",
+            "constraints": { "required": false }
+          }
+        ],
+        "primaryKey": ["passport", "destination"],
+        "missingValues": [""]
+      }
+    },
+    {
+      "name": "countries",
+      "path": "countries.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": { "delimiter": ",", "lineTerminator": "\n", "quoteChar": "\"", "header": true },
+      "schema": {
+        "fields": [
+          { "name": "code", "type": "string", "title": "ISO 3166-1 alpha-2 code", "constraints": { "required": true, "pattern": "^[A-Z]{2}$" } },
+          { "name": "name_en", "type": "string", "title": "English name", "constraints": { "required": true } },
+          { "name": "issues_passport", "type": "boolean", "title": "Appears as a passport", "description": "True if the entity issues an ordinary passport that appears in the passport column." },
+          { "name": "is_destination", "type": "boolean", "title": "Appears as a destination", "description": "True if the entity appears in the destination column." }
+        ],
+        "primaryKey": ["code"],
+        "missingValues": [""]
+      }
+    },
+    {
+      "name": "changes",
+      "path": "changes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": { "delimiter": ",", "lineTerminator": "\n", "quoteChar": "\"", "header": true },
+      "schema": {
+        "fields": [
+          { "name": "date", "type": "date", "format": "%Y-%m-%d", "title": "Date the rule changed", "constraints": { "required": true } },
+          { "name": "verified", "type": "date", "format": "%Y-%m-%d", "title": "Date the source was last re-read", "constraints": { "required": false } },
+          { "name": "status", "type": "string", "title": "Whether the change is in force", "description": "applied means the change is reflected in visa-requirements.csv. pending means it is announced but not yet in force and is deliberately NOT reflected there.", "constraints": { "required": true, "enum": ["applied", "pending"] } },
+          { "name": "passport", "type": "string", "title": "Passport country, empty if the change applies to all passports", "constraints": { "required": false, "pattern": "^[A-Z]{2}$" } },
+          { "name": "destination", "type": "string", "title": "Destination country", "constraints": { "required": true, "pattern": "^[A-Z]{2}$" } },
+          { "name": "was", "type": "string", "title": "Previous requirement or day count", "constraints": { "required": false } },
+          { "name": "now", "type": "string", "title": "Current requirement or day count", "constraints": { "required": false } },
+          { "name": "source", "type": "string", "format": "uri", "title": "Primary source", "constraints": { "required": false } },
+          { "name": "topic_en", "type": "string", "title": "One-line summary in English", "constraints": { "required": false } },
+          { "name": "note_en", "type": "string", "title": "Explanation in English", "constraints": { "required": false } }
+        ],
+        "missingValues": [""]
+      }
+    }
+  ]
+}

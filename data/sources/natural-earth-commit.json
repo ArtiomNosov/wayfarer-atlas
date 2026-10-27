@@ -1,0 +1,101 @@
+{
+  "sha": "ca96624a56bd078437bca8184e78163e5039ad19",
+  "node_id": "C_kwDOADFuw9oAKGNhOTY2MjRhNTZiZDA3ODQzN2JjYTgxODRlNzgxNjNlNTAzOWFkMTk",
+  "commit": {
+    "author": {
+      "name": "Nathaniel Kelso",
+      "email": "nvkelso@gmail.com",
+      "date": "2022-06-02T07:25:00Z"
+    },
+    "committer": {
+      "name": "Nathaniel Kelso",
+      "email": "nvkelso@gmail.com",
+      "date": "2022-06-02T07:25:00Z"
+    },
+    "message": "marine for both #697 and #735",
+    "tree": {
+      "sha": "e5ba3cd7f2eb74434eeaa8c120debafeb05ca368",
+      "url": "https://api.github.com/repos/nvkelso/natural-earth-vector/git/trees/e5ba3cd7f2eb74434eeaa8c120debafeb05ca368"
+    },
+    "url": "https://api.github.com/repos/nvkelso/natural-earth-vector/git/commits/ca96624a56bd078437bca8184e78163e5039ad19",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    }
+  },
+  "url": "https://api.github.com/repos/nvkelso/natural-earth-vector/commits/ca96624a56bd078437bca8184e78163e5039ad19",
+  "html_url": "https://github.com/nvkelso/natural-earth-vector/commit/ca96624a56bd078437bca8184e78163e5039ad19",
+  "comments_url": "https://api.github.com/repos/nvkelso/natural-earth-vector/commits/ca96624a56bd078437bca8184e78163e5039ad19/comments",
+  "author": {
+    "login": "nvkelso",
+    "id": 853051,
+    "node_id": "MDQ6VXNlcjg1MzA1MQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/853051?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nvkelso",
+    "html_url": "https://github.com/nvkelso",
+    "followers_url": "https://api.github.com/users/nvkelso/followers",
+    "following_url": "https://api.github.com/users/nvkelso/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nvkelso/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nvkelso/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nvkelso/subscriptions",
+    "organizations_url": "https://api.github.com/users/nvkelso/orgs",
+    "repos_url": "https://api.github.com/users/nvkelso/repos",
+    "events_url": "https://api.github.com/users/nvkelso/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nvkelso/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "nvkelso",
+    "id": 853051,
+    "node_id": "MDQ6VXNlcjg1MzA1MQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/853051?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nvkelso",
+    "html_url": "https://github.com/nvkelso",
+    "followers_url": "https://api.github.com/users/nvkelso/followers",
+    "following_url": "https://api.github.com/users/nvkelso/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nvkelso/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nvkelso/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nvkelso/subscriptions",
+    "organizations_url": "https://api.github.com/users/nvkelso/orgs",
+    "repos_url": "https://api.github.com/users/nvkelso/repos",
+    "events_url": "https://api.github.com/users/nvkelso/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nvkelso/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "dfc8f1d72d9b363c21c049df4aecea297f2b1a44",
+      "url": "https://api.github.com/repos/nvkelso/natural-earth-vector/commits/dfc8f1d72d9b363c21c049df4aecea297f2b1a44",
+      "html_url": "https://github.com/nvkelso/natural-earth-vector/commit/dfc8f1d72d9b363c21c049df4aecea297f2b1a44"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "a099c1fb9f4140fd82b70d70c2fb86a1ed30040f",
+      "filename": "CHANGELOG",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/nvkelso/natural-earth-vector/blob/ca96624a56bd078437bca8184e78163e5039ad19/CHANGELOG",
+      "raw_url": "https://github.com/nvkelso/natural-earth-vector/raw/ca96624a56bd078437bca8184e78163e5039ad19/CHANGELOG",
+      "contents_url": "https://api.github.com/repos/nvkelso/natural-earth-vector/contents/CHANGELOG?ref=ca96624a56bd078437bca8184e78163e5039ad19",
+      "patch": "@@ -34,7 +34,7 @@ GENERAL\n               for east and west basins, with separate ne_id and min_label values.\n             - Added oceanbasin and subbasin columns.\n             - See also: https://legacy.iho.int/mtg_docs/com_wg/S-23WG/S-23WG_Misc/Draft_2002/Draft_2002.htm\n-            - Fixes #735\n+            - Fixes #697 and #735\n \n 50M_PHYSICAL\n "
+    }
+  ]
+}

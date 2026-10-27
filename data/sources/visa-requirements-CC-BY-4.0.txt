@@ -1,0 +1,75 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This licence applies to the DATA in this repository: every file under
+`data/`, and the tabular content reproduced inside `README.md`.
+
+The code in `scripts/` is licensed separately under the MIT licence; see
+`scripts/LICENSE-MIT`.
+
+-------------------------------------------------------------------------------
+
+You are free to:
+
+  Share  - copy and redistribute the material in any medium or format
+  Adapt  - remix, transform, and build upon the material for any purpose,
+           even commercially
+
+The licensor cannot revoke these freedoms as long as you follow the licence
+terms.
+
+Under the following terms:
+
+  Attribution - You must give appropriate credit, provide a link to the
+  licence, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+
+  No additional restrictions - You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the licence
+  permits.
+
+Notices:
+
+  You do not have to comply with the licence for elements of the material in
+  the public domain or where your use is permitted by an applicable exception
+  or limitation.
+
+  No warranties are given. The licence may not give you all of the permissions
+  necessary for your intended use. For example, other rights such as publicity,
+  privacy, or moral rights may limit how you use the material.
+
+-------------------------------------------------------------------------------
+
+Attribution string we ask you to use:
+
+  Visa Requirements Dataset, VisaChecker.org, CC BY 4.0,
+  https://github.com/maxix7/visa-requirements-dataset
+
+The full legal text of CC BY 4.0 is at:
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+-------------------------------------------------------------------------------
+
+UPSTREAM
+
+The base matrix this dataset starts from is the open Passport Index data
+(imorte/passport-index-data, https://github.com/imorte/passport-index-data),
+published under the MIT licence. It is credited in `data/datapackage.json`
+under `sources` and in the README. Every value that departs from it carries a
+government source of its own; the values that do not depart from it are that
+upstream's work, not ours, and we say so rather than absorbing it silently.
+That is not politeness. A dataset whose stated purpose is that visa tables
+circulate as unsourced copies of copies has no business being one.
+
+-------------------------------------------------------------------------------
+
+A NOTE ON WHAT THIS LICENCE DOES AND DOES NOT COVER
+
+Individual facts - "a Portuguese passport holder may enter Japan without a
+visa" - are not copyrightable anywhere we are aware of. The licence covers the
+compilation: the selection, the normalisation into a single vocabulary, the
+per-pair verification dates, and the change journal. If you take three facts
+out of this repository you do not need our permission. If you take the table,
+please credit it, because the credit is the only thing we get back for the
+work of keeping it correct.

@@ -1,0 +1,31 @@
+{
+  "publisher": "Immigration Department, Government of the Hong Kong Special Administrative Region",
+  "sourceUrl": "https://www.immd.gov.hk/opendata/eng/law-and-security/visas/visit_visa_entry_permit_requirements_HKSAR.csv",
+  "catalogUrl": "https://data.gov.hk/en-data/dataset/hk-immd-set4-visit-visa-entry-permit-requirements-hksar",
+  "resourceMetadataUrl": "https://data.gov.hk/en-data/dataset/hk-immd-set4-visit-visa-entry-permit-requirements-hksar/resource/7721f67e-80e9-4306-b379-66a47c6a617a",
+  "specificationUrl": "https://www.immd.gov.hk/opendata/eng/law-and-security/visas/data_specification_for_visit_visa_entry_permit_requirements_HKSAR.pdf",
+  "referenceUrl": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+  "metadataUpdatedAt": "2026-06-11",
+  "referenceContentUpdatedAt": "2026-08",
+  "referencePageRevisedAt": "2026-09-22",
+  "checkedAt": "2026-10-26",
+  "verificationTimezone": "Europe/Moscow",
+  "updateFrequency": "As necessary",
+  "rights": {
+    "name": "DATA.GOV.HK Terms of Use v1.2",
+    "url": "https://data.gov.hk/en/terms-and-conditions",
+    "termsLastUpdatedAt": "2025-05-26",
+    "summary": "Free commercial and non-commercial browsing, download, distribution, reproduction, hyperlinking and printing are expressly permitted subject to the terms, identifying the source, acknowledging Government/Relevant Organisation intellectual property ownership and attributing Government, Relevant Organisation and DATA.GOV.HK. AS IS; no warranty, endorsement or undertaking to maintain updates. Full terms apply.",
+    "attribution": "Immigration Department, Government of the Hong Kong Special Administrative Region; DATA.GOV.HK. Normalised and summarised for Wayfarer Atlas; English and Russian notes added. No endorsement."
+  },
+  "scope": "Ordinary short visits. Chinese Mainland and Taiwan arrangements, diplomatic/official/temporary/stateless travel documents and passport subtypes must not be inferred from an ordinary country code. Existing permission/residence exceptions are outside the app's baseline.",
+  "sourceRetrieval": "Original official CSV saved separately; source table, terms and special passport conditions reviewed. Date denotes source/extraction review, not an official publication or guarantee.",
+  "rawCsvDownloaded": true,
+  "rawCsvFile": "hong-kong-visa-requirements.csv",
+  "rawCsvBytes": 19521,
+  "rawCsvSha256": "a1a80cf2b9c31654c4269f2ab38c0bd37c4d51364d315e77334b824a49487f88",
+  "mappedCitizenships": 207,
+  "knownRules": 203,
+  "sourceAsAt": "2025-12-31",
+  "sourceDataRows": 225
+}

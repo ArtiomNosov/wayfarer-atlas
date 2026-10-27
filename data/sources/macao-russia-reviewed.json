@@ -1,0 +1,21 @@
+{
+  "destination": "MO",
+  "citizenship": "RU",
+  "category": "VISA_FREE",
+  "maxStayDays": 30,
+  "sourceUrl": "https://www.gov.mo/en/services/ps-1474/ps-1474b/",
+  "sourceNameEn": "Macao Public Security Police Force — entry of non-residents",
+  "sourceNameRu": "Полиция общественной безопасности Макао — въезд нерезидентов",
+  "sourcePageModifiedAt": "2026-08-10",
+  "checkedAt": "2026-10-26",
+  "verificationTimezone": "Europe/Moscow",
+  "notes": "Russian ordinary passport holders are exempt from a visa for a short visit of up to 30 days. Meet the general entry conditions: passport validity of at least 90 days beyond the intended stay, sufficient funds, and return/onward travel arrangements as applicable. Permission to enter is decided by the authorities. This is a short factual summary, not a copy of the government portal's text or exemption table.",
+  "notesRu": "Владельцам обычного российского паспорта не нужна виза для краткого посещения до 30 дней. Действуют общие условия въезда: срок действия паспорта не менее 90 дней сверх планируемого пребывания, достаточные средства, обратный билет или дальнейший маршрут в применимых случаях. Решение о допуске принимают власти. Это краткая самостоятельная фактическая сводка, а не копия текста или таблицы государственного портала.",
+  "provenance": {
+    "method": "Independently written factual summary of one ordinary-passport route after review of the official PSP-published page through web. No whole table or portal prose reproduced.",
+    "termsUrl": "https://www.gov.mo/en/terms-of-use/",
+    "rightsNote": "Gov.mo reproduction terms are restrictive. No open licence over the portal or its texts is asserted. This file contains a bounded independently worded factual route summary with attribution, not a mirror, translation or redistribution of the portal content.",
+    "corroboratingCatalogUrl": "https://www.kdmid.ru/opendata/7704206201-country/",
+    "corroborationNote": "Russian MFA open-data catalog identifies an entry-regime dataset; indexed row 80 also reports Russia-Macao visa exemption up to 30 days. Its direct view was in maintenance on 2026-10-26, so it is not used as a verified live feed or a replacement for the reviewed PSP source."
+  }
+}

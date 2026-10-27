@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wayfarer Atlas</string>
+    <string name="trip_reminders_channel">Trip reminders</string>
+    <string name="trip_reminder_title">Your trip starts today</string>
+    <string name="trip_reminder_body">Check the current entry conditions for %1$s before departure.</string>
+</resources>

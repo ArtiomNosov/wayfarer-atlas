@@ -1,0 +1,20 @@
+Hong Kong entry requirements
+Source: Immigration Department, Government of the Hong Kong Special Administrative Region; DATA.GOV.HK.
+https://data.gov.hk/en-data/dataset/hk-immd-set4-visit-visa-entry-permit-requirements-hksar
+Reuse is subject to DATA.GOV.HK Terms of Use v1.2 (26 May 2025):
+https://data.gov.hk/en/terms-and-conditions
+Government/Relevant Organisation intellectual property ownership is acknowledged. Source facts normalised and summarised; English and Russian notes added. No government endorsement. Data provided AS IS, without a guarantee of accuracy, continued availability or updates.
+
+New Zealand entry requirements
+Crown, Ministry of Business, Innovation and Employment — Immigration New Zealand.
+https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/
+Creative Commons Attribution 3.0 New Zealand:
+https://creativecommons.org/licenses/by/3.0/nz/
+https://www.immigration.govt.nz/about-us/about-this-site/copyright/
+Reviewed 26 October 2026. Normalised, summarised and translated. No endorsement.
+
+Macao: Russia ordinary-passport route only
+Official source: Public Security Police Force, Macao SAR.
+https://www.gov.mo/en/services/ps-1474/ps-1474b/
+Checked 26 October 2026. One route's facts independently summarised in English and Russian. The portal's text and exemption table are not reproduced. No open licence over the portal or endorsement is asserted; source terms:
+https://www.gov.mo/en/terms-of-use/

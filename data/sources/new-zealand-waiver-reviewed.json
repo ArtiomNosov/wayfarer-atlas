@@ -1,0 +1,395 @@
+{
+  "destination": "NZ",
+  "list": [
+    {
+      "code": "AD",
+      "label": "Andorra",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "AR",
+      "label": "Argentina",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "AT",
+      "label": "Austria",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "BH",
+      "label": "Bahrain",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "BE",
+      "label": "Belgium",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "BR",
+      "label": "Brazil",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "BN",
+      "label": "Brunei",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "BG",
+      "label": "Bulgaria",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "CA",
+      "label": "Canada",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "CL",
+      "label": "Chile",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "HR",
+      "label": "Croatia",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "CY",
+      "label": "Cyprus",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "CZ",
+      "label": "Czech Republic",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "DK",
+      "label": "Denmark",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "EE",
+      "label": "Estonia",
+      "notes": "Citizen passports only; non-citizen or alien passports are excluded.",
+      "notesRu": "Только паспорта граждан; паспорта неграждан и иностранцев исключены."
+    },
+    {
+      "code": "FI",
+      "label": "Finland",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "FR",
+      "label": "France",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "DE",
+      "label": "Germany",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "GR",
+      "label": "Greece",
+      "notes": "Passport must have been issued on or after 2006-01-01.",
+      "notesRu": "Паспорт должен быть выдан 1 января 2006 года или позднее."
+    },
+    {
+      "code": "HK",
+      "label": "Hong Kong",
+      "notes": "Hong Kong residents travelling with an HKSAR or British National (Overseas) passport.",
+      "notesRu": "Для резидентов Гонконга с паспортом HKSAR или British National (Overseas)."
+    },
+    {
+      "code": "HU",
+      "label": "Hungary",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "IS",
+      "label": "Iceland",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "IE",
+      "label": "Ireland",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "IL",
+      "label": "Israel",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "IT",
+      "label": "Italy",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "JP",
+      "label": "Japan",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "KR",
+      "label": "Korea, South",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "KW",
+      "label": "Kuwait",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "LV",
+      "label": "Latvia",
+      "notes": "Citizen passports only; non-citizen or alien passports are excluded.",
+      "notesRu": "Только паспорта граждан; паспорта неграждан и иностранцев исключены."
+    },
+    {
+      "code": "LI",
+      "label": "Liechtenstein",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "LT",
+      "label": "Lithuania",
+      "notes": "Citizen passports only; non-citizen or alien passports are excluded.",
+      "notesRu": "Только паспорта граждан; паспорта неграждан и иностранцев исключены."
+    },
+    {
+      "code": "LU",
+      "label": "Luxembourg",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "MO",
+      "label": "Macau",
+      "notes": "Macau residents travelling with a Macau Special Administrative Region passport.",
+      "notesRu": "Для резидентов Макао с паспортом Macau Special Administrative Region."
+    },
+    {
+      "code": "MY",
+      "label": "Malaysia",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "MT",
+      "label": "Malta",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "MU",
+      "label": "Mauritius",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "MX",
+      "label": "Mexico",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "MC",
+      "label": "Monaco",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "NL",
+      "label": "Netherlands",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "NO",
+      "label": "Norway",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "OM",
+      "label": "Oman",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "PL",
+      "label": "Poland",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "PT",
+      "label": "Portugal",
+      "notes": "Passport holder must have the right to live permanently in Portugal.",
+      "notesRu": "Владелец паспорта должен иметь право на постоянное проживание в Португалии."
+    },
+    {
+      "code": "QA",
+      "label": "Qatar",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "RO",
+      "label": "Romania",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "SM",
+      "label": "San Marino",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "SA",
+      "label": "Saudi Arabia",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "SC",
+      "label": "Seychelles",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "SG",
+      "label": "Singapore",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "SK",
+      "label": "Slovak Republic",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "SI",
+      "label": "Slovenia",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "ES",
+      "label": "Spain",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "SE",
+      "label": "Sweden",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "CH",
+      "label": "Switzerland",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "TW",
+      "label": "Taiwan",
+      "notes": "Permanent residents travelling with a Taiwan passport.",
+      "notesRu": "Для постоянных резидентов Тайваня с тайваньским паспортом."
+    },
+    {
+      "code": "AE",
+      "label": "United Arab Emirates",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "GB",
+      "label": "United Kingdom (UK)",
+      "notes": "British citizens and other British passport holders with the right to reside permanently in the UK; stay up to 6 months.",
+      "notesRu": "Для британских граждан и иных владельцев британских паспортов с правом постоянного проживания в Великобритании; пребывание до 6 месяцев."
+    },
+    {
+      "code": "US",
+      "label": "United States of America (USA)",
+      "notes": "US nationals are also included.",
+      "notesRu": "Режим распространяется также на US nationals."
+    },
+    {
+      "code": "UY",
+      "label": "Uruguay",
+      "notes": "",
+      "notesRu": ""
+    },
+    {
+      "code": "VA",
+      "label": "Vatican City",
+      "notes": "",
+      "notesRu": ""
+    }
+  ],
+  "defaults": {
+    "requirement": "eta",
+    "authorization": "NZeTA",
+    "maxStayMonths": 3,
+    "maxStayMonthsByPassport": {
+      "GB": 6
+    },
+    "scope": "Ordinary short tourist visits; NZeTA must be obtained before travel; admission remains subject to border requirements. The list does not describe every exemption or conditional route."
+  },
+  "provenance": {
+    "publisher": "Immigration New Zealand, Ministry of Business, Innovation and Employment, Crown",
+    "sourceTitle": "Visa waiver countries and territories",
+    "sourceUrl": "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/",
+    "verifiedAt": "2026-10-26T04:47:26Z",
+    "verifiedOnLocal": "2026-10-26",
+    "verificationTimezone": "Europe/Moscow",
+    "extractionMethod": "Reviewed official page returned by the web browsing tool; labels split from conditions, whitespace normalised, ISO 3166-1 alpha-2 codes mapped, notes paraphrased and translated.",
+    "license": "CC BY 3.0 NZ",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/nz/",
+    "copyrightUrl": "https://www.immigration.govt.nz/about-us/about-this-site/copyright/",
+    "attribution": "Crown, Ministry of Business, Innovation and Employment — Immigration New Zealand. CC BY 3.0 NZ. Retrieved 2026-10-26. Normalised and translated.",
+    "rawHttpDownloadVerified": false,
+    "rawHttpDownloadNote": "Local curl returned a short HTML response without the expected country list, even after redirects. This file is a reviewed factual extraction, not a saved raw HTTP response.",
+    "exclusions": "Does not include Australian citizens or permanent residents, New Zealand citizens or existing visa holders, cruise/transit rules, or China and Pacific Islands Forum routes conditional on travel from Australia and an eligible Australian visa. Absence from this list must not be interpreted as visa required.",
+    "additionalOfficialSources": [
+      "https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/",
+      "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/australian-citizens-and-permanent-residents-travelling-to-new-zealand/",
+      "https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/chinese-and-pacific-island-visitors-travelling-from-australia/"
+    ]
+  }
+}

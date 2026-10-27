@@ -1,0 +1,14 @@
+Visa Requirements Dataset, VisaChecker.org, CC BY 4.0, version 2026-08-11.
+https://github.com/maxix7/visa-requirements-dataset
+https://creativecommons.org/licenses/by/4.0/
+Adapted by Wayfarer Atlas: normalized category and field names; domestic pairs omitted;
+unverified rows labeled; HTTP primary reference retained as text with repository fallback;
+Unicode CLDR country names used. No endorsement by VisaChecker.org is implied.
+Upstream base: Passport Index (imorte/passport-index-data), MIT, snapshot 2026-02-17.
+https://github.com/imorte/passport-index-data
+Most rows have no individual verification date. A download date is not a verification date.
+
+Made with Natural Earth. Country geometry at 1:110m, public domain.
+https://www.naturalearthdata.com/about/terms-of-use/
+Natural Earth uses de facto boundaries; map coverage omits very small territories.
+Adapted: property fields reduced to country codes, unassigned codes omitted; coordinates unchanged.

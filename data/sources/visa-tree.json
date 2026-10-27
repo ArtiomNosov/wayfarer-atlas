@@ -1,0 +1,147 @@
+{
+  "sha": "3287b1d867d73507e5794f11c17e5df4ed11b36d",
+  "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/trees/3287b1d867d73507e5794f11c17e5df4ed11b36d",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ed810fe5f5396b8974e02919cc546edd4b9b036c",
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/trees/ed810fe5f5396b8974e02919cc546edd4b9b036c"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08fe5d1dc2376b18a8104c8011a82214483106c7",
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/trees/08fe5d1dc2376b18a8104c8011a82214483106c7"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/data-error.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee44b222aea01302faf99318712d8d2e8529a966",
+      "size": 2520,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/ee44b222aea01302faf99318712d8d2e8529a966"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "723341cad1691cdc9406993575132b7944f51cb9",
+      "size": 10,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/723341cad1691cdc9406993575132b7944f51cb9"
+    },
+    {
+      "path": "CITATION.cff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e8a83eccf9f06ea46e07ee56e7fbcfe27c5d73b",
+      "size": 967,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/5e8a83eccf9f06ea46e07ee56e7fbcfe27c5d73b"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bafb651b1224555538babc2cbb51812366dfbe27",
+      "size": 3613,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/bafb651b1224555538babc2cbb51812366dfbe27"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcaff75aaccaad0f199e4bc1d0a93fad8f1115e7",
+      "size": 3122,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/bcaff75aaccaad0f199e4bc1d0a93fad8f1115e7"
+    },
+    {
+      "path": "PUBLISH.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53ea40993ca4b601716811d89f8fa4b82affb6fe",
+      "size": 4295,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/53ea40993ca4b601716811d89f8fa4b82affb6fe"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4857ba892830359802df2e1abecafd15962894fb",
+      "size": 13340,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/4857ba892830359802df2e1abecafd15962894fb"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "436699aa04c46fc8aa6e2f2104a6a9b8652a3293",
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/trees/436699aa04c46fc8aa6e2f2104a6a9b8652a3293"
+    },
+    {
+      "path": "data/changes.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d3304440ad5292b58bdec5a115c753f3554a1cf",
+      "size": 30809,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/1d3304440ad5292b58bdec5a115c753f3554a1cf"
+    },
+    {
+      "path": "data/countries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57d3f8ce784f7c0228020be3a87c82a2c0e9f5a1",
+      "size": 4448,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/57d3f8ce784f7c0228020be3a87c82a2c0e9f5a1"
+    },
+    {
+      "path": "data/datapackage.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f077768be0cc2be4876a8de757860c364a13a0c",
+      "size": 6932,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/8f077768be0cc2be4876a8de757860c364a13a0c"
+    },
+    {
+      "path": "data/visa-requirements.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7e906734b28444d5de9613ee851af945eb4a7a6",
+      "size": 803884,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/d7e906734b28444d5de9613ee851af945eb4a7a6"
+    },
+    {
+      "path": "data/visa-requirements.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11aaef005c78fe022abb09b62def256ea94d3e0e",
+      "size": 2931593,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/11aaef005c78fe022abb09b62def256ea94d3e0e"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af4c619247f6982a029c7b7a12d2eb2370c3372e",
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/trees/af4c619247f6982a029c7b7a12d2eb2370c3372e"
+    },
+    {
+      "path": "scripts/LICENSE-MIT",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d73b3a552d1859c3aa9b756a637f676f399b2ef",
+      "size": 1072,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/1d73b3a552d1859c3aa9b756a637f676f399b2ef"
+    },
+    {
+      "path": "scripts/build_dataset.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d099f7bca7753ab33134741610c8fbc5aee5685",
+      "size": 30998,
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/blobs/5d099f7bca7753ab33134741610c8fbc5aee5685"
+    }
+  ],
+  "truncated": false
+}

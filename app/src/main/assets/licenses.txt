@@ -1,0 +1,177 @@
+Wayfarer Atlas — data attribution
+Country names: Unicode CLDR / ICU. Country codes: IANA tzdata (public domain).
+
+
+Visa Requirements Dataset, VisaChecker.org, CC BY 4.0, version 2026-08-11.
+https://github.com/maxix7/visa-requirements-dataset
+https://creativecommons.org/licenses/by/4.0/
+Adapted by Wayfarer Atlas: normalized category and field names; domestic pairs omitted;
+unverified rows labeled; HTTP primary reference retained as text with repository fallback;
+Unicode CLDR country names used. No endorsement by VisaChecker.org is implied.
+Upstream base: Passport Index (imorte/passport-index-data), MIT, snapshot 2026-02-17.
+https://github.com/imorte/passport-index-data
+Most rows have no individual verification date. A download date is not a verification date.
+
+Made with Natural Earth. Country geometry at 1:110m, public domain.
+https://www.naturalearthdata.com/about/terms-of-use/
+Natural Earth uses de facto boundaries; map coverage omits very small territories.
+Adapted: property fields reduced to country codes, unassigned codes omitted; coordinates unchanged.
+
+
+UNICODE LICENSE V3
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright © 1991-2026 Unicode, Inc.
+
+NOTICE TO USER: Carefully read the following legal agreement. BY
+DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING DATA FILES, AND/OR
+SOFTWARE, YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE
+TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT
+DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of data files and any associated documentation (the "Data Files") or
+software and any associated documentation (the "Software") to deal in the
+Data Files or Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, and/or sell
+copies of the Data Files or Software, and to permit persons to whom the
+Data Files or Software are furnished to do so, provided that either (a)
+this copyright and permission notice appear with all copies of the Data
+Files or Software, or (b) this copyright and permission notice appear in
+associated Documentation.
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+THIRD PARTY RIGHTS.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE
+BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES,
+OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA
+FILES OR SOFTWARE.
+Except as contained in this notice, the name of a copyright holder shall
+not be used in advertising or otherwise to promote the sale, use or other
+dealings in these Data Files or Software without prior written
+authorization of the copyright holder.
+
+
+Hong Kong entry requirements
+Source: Immigration Department, Government of the Hong Kong Special Administrative Region; DATA.GOV.HK.
+https://data.gov.hk/en-data/dataset/hk-immd-set4-visit-visa-entry-permit-requirements-hksar
+Reuse is subject to DATA.GOV.HK Terms of Use v1.2 (26 May 2025):
+https://data.gov.hk/en/terms-and-conditions
+Government/Relevant Organisation intellectual property ownership is acknowledged. Source facts normalised and summarised; English and Russian notes added. No government endorsement. Data provided AS IS, without a guarantee of accuracy, continued availability or updates.
+
+New Zealand entry requirements
+Crown, Ministry of Business, Innovation and Employment — Immigration New Zealand.
+https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/
+Creative Commons Attribution 3.0 New Zealand:
+https://creativecommons.org/licenses/by/3.0/nz/
+https://www.immigration.govt.nz/about-us/about-this-site/copyright/
+Reviewed 26 October 2026. Normalised, summarised and translated. No endorsement.
+
+Macao: Russia ordinary-passport route only
+Official source: Public Security Police Force, Macao SAR.
+https://www.gov.mo/en/services/ps-1474/ps-1474b/
+Checked 26 October 2026. One route's facts independently summarised in English and Russian. The portal's text and exemption table are not reproduced. No open licence over the portal or endorsement is asserted; source terms:
+https://www.gov.mo/en/terms-of-use/
+
+
+MIT License
+
+Copyright (c) 2019
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This licence applies to the DATA in this repository: every file under
+`data/`, and the tabular content reproduced inside `README.md`.
+
+The code in `scripts/` is licensed separately under the MIT licence; see
+`scripts/LICENSE-MIT`.
+
+-------------------------------------------------------------------------------
+
+You are free to:
+
+  Share  - copy and redistribute the material in any medium or format
+  Adapt  - remix, transform, and build upon the material for any purpose,
+           even commercially
+
+The licensor cannot revoke these freedoms as long as you follow the licence
+terms.
+
+Under the following terms:
+
+  Attribution - You must give appropriate credit, provide a link to the
+  licence, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+
+  No additional restrictions - You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the licence
+  permits.
+
+Notices:
+
+  You do not have to comply with the licence for elements of the material in
+  the public domain or where your use is permitted by an applicable exception
+  or limitation.
+
+  No warranties are given. The licence may not give you all of the permissions
+  necessary for your intended use. For example, other rights such as publicity,
+  privacy, or moral rights may limit how you use the material.
+
+-------------------------------------------------------------------------------
+
+Attribution string we ask you to use:
+
+  Visa Requirements Dataset, VisaChecker.org, CC BY 4.0,
+  https://github.com/maxix7/visa-requirements-dataset
+
+The full legal text of CC BY 4.0 is at:
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+-------------------------------------------------------------------------------
+
+UPSTREAM
+
+The base matrix this dataset starts from is the open Passport Index data
+(imorte/passport-index-data, https://github.com/imorte/passport-index-data),
+published under the MIT licence. It is credited in `data/datapackage.json`
+under `sources` and in the README. Every value that departs from it carries a
+government source of its own; the values that do not depart from it are that
+upstream's work, not ours, and we say so rather than absorbing it silently.
+That is not politeness. A dataset whose stated purpose is that visa tables
+circulate as unsourced copies of copies has no business being one.
+
+-------------------------------------------------------------------------------
+
+A NOTE ON WHAT THIS LICENCE DOES AND DOES NOT COVER
+
+Individual facts - "a Portuguese passport holder may enter Japan without a
+visa" - are not copyrightable anywhere we are aware of. The licence covers the
+compilation: the selection, the normalisation into a single vocabulary, the
+per-pair verification dates, and the change journal. If you take three facts
+out of this repository you do not need our permission. If you take the table,
+please credit it, because the credit is the only thing we get back for the
+work of keeping it correct.

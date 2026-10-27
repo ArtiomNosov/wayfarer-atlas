@@ -1,0 +1,2007 @@
+{
+  "version": 1,
+  "source": "IANA tzdata iso3166.tab; Unicode CLDR names via Node.js Intl.DisplayNames / ICU",
+  "updatedAt": "2026-10-25",
+  "countries": [
+    {
+      "code": "AD",
+      "nameEn": "Andorra",
+      "nameRu": "Андорра",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AE",
+      "nameEn": "United Arab Emirates",
+      "nameRu": "ОАЭ",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AF",
+      "nameEn": "Afghanistan",
+      "nameRu": "Афганистан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AG",
+      "nameEn": "Antigua & Barbuda",
+      "nameRu": "Антигуа и Барбуда",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AI",
+      "nameEn": "Anguilla",
+      "nameRu": "Ангилья",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AL",
+      "nameEn": "Albania",
+      "nameRu": "Албания",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AM",
+      "nameEn": "Armenia",
+      "nameRu": "Армения",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AO",
+      "nameEn": "Angola",
+      "nameRu": "Ангола",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AQ",
+      "nameEn": "Antarctica",
+      "nameRu": "Антарктида",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AR",
+      "nameEn": "Argentina",
+      "nameRu": "Аргентина",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AS",
+      "nameEn": "American Samoa",
+      "nameRu": "Американское Самоа",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AT",
+      "nameEn": "Austria",
+      "nameRu": "Австрия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AU",
+      "nameEn": "Australia",
+      "nameRu": "Австралия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AW",
+      "nameEn": "Aruba",
+      "nameRu": "Аруба",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AX",
+      "nameEn": "Åland Islands",
+      "nameRu": "Аландские о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "AZ",
+      "nameEn": "Azerbaijan",
+      "nameRu": "Азербайджан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BA",
+      "nameEn": "Bosnia & Herzegovina",
+      "nameRu": "Босния и Герцеговина",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BB",
+      "nameEn": "Barbados",
+      "nameRu": "Барбадос",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BD",
+      "nameEn": "Bangladesh",
+      "nameRu": "Бангладеш",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BE",
+      "nameEn": "Belgium",
+      "nameRu": "Бельгия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BF",
+      "nameEn": "Burkina Faso",
+      "nameRu": "Буркина-Фасо",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BG",
+      "nameEn": "Bulgaria",
+      "nameRu": "Болгария",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BH",
+      "nameEn": "Bahrain",
+      "nameRu": "Бахрейн",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BI",
+      "nameEn": "Burundi",
+      "nameRu": "Бурунди",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BJ",
+      "nameEn": "Benin",
+      "nameRu": "Бенин",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BL",
+      "nameEn": "St. Barthélemy",
+      "nameRu": "Сен-Бартелеми",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BM",
+      "nameEn": "Bermuda",
+      "nameRu": "Бермудские о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BN",
+      "nameEn": "Brunei",
+      "nameRu": "Бруней",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BO",
+      "nameEn": "Bolivia",
+      "nameRu": "Боливия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BQ",
+      "nameEn": "Caribbean Netherlands",
+      "nameRu": "Бонэйр, Синт-Эстатиус и Саба",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BR",
+      "nameEn": "Brazil",
+      "nameRu": "Бразилия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BS",
+      "nameEn": "Bahamas",
+      "nameRu": "Багамы",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BT",
+      "nameEn": "Bhutan",
+      "nameRu": "Бутан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BV",
+      "nameEn": "Bouvet Island",
+      "nameRu": "о-в Буве",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BW",
+      "nameEn": "Botswana",
+      "nameRu": "Ботсвана",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BY",
+      "nameEn": "Belarus",
+      "nameRu": "Беларусь",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "BZ",
+      "nameEn": "Belize",
+      "nameRu": "Белиз",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CA",
+      "nameEn": "Canada",
+      "nameRu": "Канада",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CC",
+      "nameEn": "Cocos (Keeling) Islands",
+      "nameRu": "Кокосовые о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CD",
+      "nameEn": "Congo - Kinshasa",
+      "nameRu": "Конго - Киншаса",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CF",
+      "nameEn": "Central African Republic",
+      "nameRu": "Центрально-Африканская Республика",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CG",
+      "nameEn": "Congo - Brazzaville",
+      "nameRu": "Конго - Браззавиль",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CH",
+      "nameEn": "Switzerland",
+      "nameRu": "Швейцария",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CI",
+      "nameEn": "Côte d’Ivoire",
+      "nameRu": "Кот-д’Ивуар",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CK",
+      "nameEn": "Cook Islands",
+      "nameRu": "о-ва Кука",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CL",
+      "nameEn": "Chile",
+      "nameRu": "Чили",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CM",
+      "nameEn": "Cameroon",
+      "nameRu": "Камерун",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CN",
+      "nameEn": "China",
+      "nameRu": "Китай",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CO",
+      "nameEn": "Colombia",
+      "nameRu": "Колумбия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CR",
+      "nameEn": "Costa Rica",
+      "nameRu": "Коста-Рика",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CU",
+      "nameEn": "Cuba",
+      "nameRu": "Куба",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CV",
+      "nameEn": "Cape Verde",
+      "nameRu": "Кабо-Верде",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CW",
+      "nameEn": "Curaçao",
+      "nameRu": "Кюрасао",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CX",
+      "nameEn": "Christmas Island",
+      "nameRu": "о-в Рождества",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CY",
+      "nameEn": "Cyprus",
+      "nameRu": "Кипр",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "CZ",
+      "nameEn": "Czechia",
+      "nameRu": "Чехия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "DE",
+      "nameEn": "Germany",
+      "nameRu": "Германия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "DJ",
+      "nameEn": "Djibouti",
+      "nameRu": "Джибути",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "DK",
+      "nameEn": "Denmark",
+      "nameRu": "Дания",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "DM",
+      "nameEn": "Dominica",
+      "nameRu": "Доминика",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "DO",
+      "nameEn": "Dominican Republic",
+      "nameRu": "Доминиканская Республика",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "DZ",
+      "nameEn": "Algeria",
+      "nameRu": "Алжир",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "EC",
+      "nameEn": "Ecuador",
+      "nameRu": "Эквадор",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "EE",
+      "nameEn": "Estonia",
+      "nameRu": "Эстония",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "EG",
+      "nameEn": "Egypt",
+      "nameRu": "Египет",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "EH",
+      "nameEn": "Western Sahara",
+      "nameRu": "Западная Сахара",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ER",
+      "nameEn": "Eritrea",
+      "nameRu": "Эритрея",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ES",
+      "nameEn": "Spain",
+      "nameRu": "Испания",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ET",
+      "nameEn": "Ethiopia",
+      "nameRu": "Эфиопия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "FI",
+      "nameEn": "Finland",
+      "nameRu": "Финляндия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "FJ",
+      "nameEn": "Fiji",
+      "nameRu": "Фиджи",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "FK",
+      "nameEn": "Falkland Islands",
+      "nameRu": "Фолклендские о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "FM",
+      "nameEn": "Micronesia",
+      "nameRu": "Федеративные Штаты Микронезии",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "FO",
+      "nameEn": "Faroe Islands",
+      "nameRu": "Фарерские о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "FR",
+      "nameEn": "France",
+      "nameRu": "Франция",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GA",
+      "nameEn": "Gabon",
+      "nameRu": "Габон",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GB",
+      "nameEn": "United Kingdom",
+      "nameRu": "Великобритания",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GD",
+      "nameEn": "Grenada",
+      "nameRu": "Гренада",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GE",
+      "nameEn": "Georgia",
+      "nameRu": "Грузия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GF",
+      "nameEn": "French Guiana",
+      "nameRu": "Французская Гвиана",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GG",
+      "nameEn": "Guernsey",
+      "nameRu": "Гернси",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GH",
+      "nameEn": "Ghana",
+      "nameRu": "Гана",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GI",
+      "nameEn": "Gibraltar",
+      "nameRu": "Гибралтар",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GL",
+      "nameEn": "Greenland",
+      "nameRu": "Гренландия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GM",
+      "nameEn": "Gambia",
+      "nameRu": "Гамбия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GN",
+      "nameEn": "Guinea",
+      "nameRu": "Гвинея",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GP",
+      "nameEn": "Guadeloupe",
+      "nameRu": "Гваделупа",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GQ",
+      "nameEn": "Equatorial Guinea",
+      "nameRu": "Экваториальная Гвинея",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GR",
+      "nameEn": "Greece",
+      "nameRu": "Греция",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GS",
+      "nameEn": "South Georgia & South Sandwich Islands",
+      "nameRu": "Южная Георгия и Южные Сандвичевы о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GT",
+      "nameEn": "Guatemala",
+      "nameRu": "Гватемала",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GU",
+      "nameEn": "Guam",
+      "nameRu": "Гуам",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GW",
+      "nameEn": "Guinea-Bissau",
+      "nameRu": "Гвинея-Бисау",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "GY",
+      "nameEn": "Guyana",
+      "nameRu": "Гайана",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "HK",
+      "nameEn": "Hong Kong SAR China",
+      "nameRu": "Гонконг (САР)",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "HM",
+      "nameEn": "Heard & McDonald Islands",
+      "nameRu": "о-ва Херд и Макдональд",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "HN",
+      "nameEn": "Honduras",
+      "nameRu": "Гондурас",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "HR",
+      "nameEn": "Croatia",
+      "nameRu": "Хорватия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "HT",
+      "nameEn": "Haiti",
+      "nameRu": "Гаити",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "HU",
+      "nameEn": "Hungary",
+      "nameRu": "Венгрия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ID",
+      "nameEn": "Indonesia",
+      "nameRu": "Индонезия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IE",
+      "nameEn": "Ireland",
+      "nameRu": "Ирландия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IL",
+      "nameEn": "Israel",
+      "nameRu": "Израиль",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IM",
+      "nameEn": "Isle of Man",
+      "nameRu": "о-в Мэн",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IN",
+      "nameEn": "India",
+      "nameRu": "Индия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IO",
+      "nameEn": "British Indian Ocean Territory",
+      "nameRu": "Британская территория в Индийском океане",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IQ",
+      "nameEn": "Iraq",
+      "nameRu": "Ирак",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IR",
+      "nameEn": "Iran",
+      "nameRu": "Иран",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IS",
+      "nameEn": "Iceland",
+      "nameRu": "Исландия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "IT",
+      "nameEn": "Italy",
+      "nameRu": "Италия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "JE",
+      "nameEn": "Jersey",
+      "nameRu": "Джерси",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "JM",
+      "nameEn": "Jamaica",
+      "nameRu": "Ямайка",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "JO",
+      "nameEn": "Jordan",
+      "nameRu": "Иордания",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "JP",
+      "nameEn": "Japan",
+      "nameRu": "Япония",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KE",
+      "nameEn": "Kenya",
+      "nameRu": "Кения",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KG",
+      "nameEn": "Kyrgyzstan",
+      "nameRu": "Киргизия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KH",
+      "nameEn": "Cambodia",
+      "nameRu": "Камбоджа",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KI",
+      "nameEn": "Kiribati",
+      "nameRu": "Кирибати",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KM",
+      "nameEn": "Comoros",
+      "nameRu": "Коморы",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KN",
+      "nameEn": "St. Kitts & Nevis",
+      "nameRu": "Сент-Китс и Невис",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KP",
+      "nameEn": "North Korea",
+      "nameRu": "КНДР",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KR",
+      "nameEn": "South Korea",
+      "nameRu": "Республика Корея",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KW",
+      "nameEn": "Kuwait",
+      "nameRu": "Кувейт",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KY",
+      "nameEn": "Cayman Islands",
+      "nameRu": "о-ва Кайман",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "KZ",
+      "nameEn": "Kazakhstan",
+      "nameRu": "Казахстан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LA",
+      "nameEn": "Laos",
+      "nameRu": "Лаос",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LB",
+      "nameEn": "Lebanon",
+      "nameRu": "Ливан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LC",
+      "nameEn": "St. Lucia",
+      "nameRu": "Сент-Люсия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LI",
+      "nameEn": "Liechtenstein",
+      "nameRu": "Лихтенштейн",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LK",
+      "nameEn": "Sri Lanka",
+      "nameRu": "Шри-Ланка",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LR",
+      "nameEn": "Liberia",
+      "nameRu": "Либерия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LS",
+      "nameEn": "Lesotho",
+      "nameRu": "Лесото",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LT",
+      "nameEn": "Lithuania",
+      "nameRu": "Литва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LU",
+      "nameEn": "Luxembourg",
+      "nameRu": "Люксембург",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LV",
+      "nameEn": "Latvia",
+      "nameRu": "Латвия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "LY",
+      "nameEn": "Libya",
+      "nameRu": "Ливия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MA",
+      "nameEn": "Morocco",
+      "nameRu": "Марокко",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MC",
+      "nameEn": "Monaco",
+      "nameRu": "Монако",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MD",
+      "nameEn": "Moldova",
+      "nameRu": "Молдова",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ME",
+      "nameEn": "Montenegro",
+      "nameRu": "Черногория",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MF",
+      "nameEn": "St. Martin",
+      "nameRu": "Сен-Мартен",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MG",
+      "nameEn": "Madagascar",
+      "nameRu": "Мадагаскар",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MH",
+      "nameEn": "Marshall Islands",
+      "nameRu": "Маршалловы о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MK",
+      "nameEn": "North Macedonia",
+      "nameRu": "Северная Македония",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ML",
+      "nameEn": "Mali",
+      "nameRu": "Мали",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MM",
+      "nameEn": "Myanmar (Burma)",
+      "nameRu": "Мьянма (Бирма)",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MN",
+      "nameEn": "Mongolia",
+      "nameRu": "Монголия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MO",
+      "nameEn": "Macao SAR China",
+      "nameRu": "Макао (САР)",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MP",
+      "nameEn": "Northern Mariana Islands",
+      "nameRu": "Северные Марианские о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MQ",
+      "nameEn": "Martinique",
+      "nameRu": "Мартиника",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MR",
+      "nameEn": "Mauritania",
+      "nameRu": "Мавритания",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MS",
+      "nameEn": "Montserrat",
+      "nameRu": "Монтсеррат",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MT",
+      "nameEn": "Malta",
+      "nameRu": "Мальта",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MU",
+      "nameEn": "Mauritius",
+      "nameRu": "Маврикий",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MV",
+      "nameEn": "Maldives",
+      "nameRu": "Мальдивы",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MW",
+      "nameEn": "Malawi",
+      "nameRu": "Малави",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MX",
+      "nameEn": "Mexico",
+      "nameRu": "Мексика",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MY",
+      "nameEn": "Malaysia",
+      "nameRu": "Малайзия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "MZ",
+      "nameEn": "Mozambique",
+      "nameRu": "Мозамбик",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NA",
+      "nameEn": "Namibia",
+      "nameRu": "Намибия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NC",
+      "nameEn": "New Caledonia",
+      "nameRu": "Новая Каледония",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NE",
+      "nameEn": "Niger",
+      "nameRu": "Нигер",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NF",
+      "nameEn": "Norfolk Island",
+      "nameRu": "о-в Норфолк",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NG",
+      "nameEn": "Nigeria",
+      "nameRu": "Нигерия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NI",
+      "nameEn": "Nicaragua",
+      "nameRu": "Никарагуа",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NL",
+      "nameEn": "Netherlands",
+      "nameRu": "Нидерланды",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NO",
+      "nameEn": "Norway",
+      "nameRu": "Норвегия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NP",
+      "nameEn": "Nepal",
+      "nameRu": "Непал",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NR",
+      "nameEn": "Nauru",
+      "nameRu": "Науру",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NU",
+      "nameEn": "Niue",
+      "nameRu": "Ниуэ",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "NZ",
+      "nameEn": "New Zealand",
+      "nameRu": "Новая Зеландия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "OM",
+      "nameEn": "Oman",
+      "nameRu": "Оман",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PA",
+      "nameEn": "Panama",
+      "nameRu": "Панама",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PE",
+      "nameEn": "Peru",
+      "nameRu": "Перу",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PF",
+      "nameEn": "French Polynesia",
+      "nameRu": "Французская Полинезия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PG",
+      "nameEn": "Papua New Guinea",
+      "nameRu": "Папуа — Новая Гвинея",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PH",
+      "nameEn": "Philippines",
+      "nameRu": "Филиппины",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PK",
+      "nameEn": "Pakistan",
+      "nameRu": "Пакистан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PL",
+      "nameEn": "Poland",
+      "nameRu": "Польша",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PM",
+      "nameEn": "St. Pierre & Miquelon",
+      "nameRu": "Сен-Пьер и Микелон",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PN",
+      "nameEn": "Pitcairn Islands",
+      "nameRu": "о-ва Питкэрн",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PR",
+      "nameEn": "Puerto Rico",
+      "nameRu": "Пуэрто-Рико",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PS",
+      "nameEn": "Palestinian Territories",
+      "nameRu": "Палестинские территории",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PT",
+      "nameEn": "Portugal",
+      "nameRu": "Португалия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PW",
+      "nameEn": "Palau",
+      "nameRu": "Палау",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "PY",
+      "nameEn": "Paraguay",
+      "nameRu": "Парагвай",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "QA",
+      "nameEn": "Qatar",
+      "nameRu": "Катар",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "RE",
+      "nameEn": "Réunion",
+      "nameRu": "Реюньон",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "RO",
+      "nameEn": "Romania",
+      "nameRu": "Румыния",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "RS",
+      "nameEn": "Serbia",
+      "nameRu": "Сербия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "RU",
+      "nameEn": "Russia",
+      "nameRu": "Россия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "RW",
+      "nameEn": "Rwanda",
+      "nameRu": "Руанда",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SA",
+      "nameEn": "Saudi Arabia",
+      "nameRu": "Саудовская Аравия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SB",
+      "nameEn": "Solomon Islands",
+      "nameRu": "Соломоновы о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SC",
+      "nameEn": "Seychelles",
+      "nameRu": "Сейшельские о-ва",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SD",
+      "nameEn": "Sudan",
+      "nameRu": "Судан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SE",
+      "nameEn": "Sweden",
+      "nameRu": "Швеция",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SG",
+      "nameEn": "Singapore",
+      "nameRu": "Сингапур",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SH",
+      "nameEn": "St. Helena",
+      "nameRu": "о-в Св. Елены",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SI",
+      "nameEn": "Slovenia",
+      "nameRu": "Словения",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SJ",
+      "nameEn": "Svalbard & Jan Mayen",
+      "nameRu": "Шпицберген и Ян-Майен",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SK",
+      "nameEn": "Slovakia",
+      "nameRu": "Словакия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SL",
+      "nameEn": "Sierra Leone",
+      "nameRu": "Сьерра-Леоне",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SM",
+      "nameEn": "San Marino",
+      "nameRu": "Сан-Марино",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SN",
+      "nameEn": "Senegal",
+      "nameRu": "Сенегал",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SO",
+      "nameEn": "Somalia",
+      "nameRu": "Сомали",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SR",
+      "nameEn": "Suriname",
+      "nameRu": "Суринам",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SS",
+      "nameEn": "South Sudan",
+      "nameRu": "Южный Судан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ST",
+      "nameEn": "São Tomé & Príncipe",
+      "nameRu": "Сан-Томе и Принсипи",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SV",
+      "nameEn": "El Salvador",
+      "nameRu": "Сальвадор",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SX",
+      "nameEn": "Sint Maarten",
+      "nameRu": "Синт-Мартен",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SY",
+      "nameEn": "Syria",
+      "nameRu": "Сирия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "SZ",
+      "nameEn": "Eswatini",
+      "nameRu": "Эсватини",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TC",
+      "nameEn": "Turks & Caicos Islands",
+      "nameRu": "Тёркс и Кайкос",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TD",
+      "nameEn": "Chad",
+      "nameRu": "Чад",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TF",
+      "nameEn": "French Southern Territories",
+      "nameRu": "Французские Южные территории",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TG",
+      "nameEn": "Togo",
+      "nameRu": "Того",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TH",
+      "nameEn": "Thailand",
+      "nameRu": "Таиланд",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TJ",
+      "nameEn": "Tajikistan",
+      "nameRu": "Таджикистан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TK",
+      "nameEn": "Tokelau",
+      "nameRu": "Токелау",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TL",
+      "nameEn": "Timor-Leste",
+      "nameRu": "Восточный Тимор",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TM",
+      "nameEn": "Turkmenistan",
+      "nameRu": "Туркменистан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TN",
+      "nameEn": "Tunisia",
+      "nameRu": "Тунис",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TO",
+      "nameEn": "Tonga",
+      "nameRu": "Тонга",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TR",
+      "nameEn": "Türkiye",
+      "nameRu": "Турция",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TT",
+      "nameEn": "Trinidad & Tobago",
+      "nameRu": "Тринидад и Тобаго",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TV",
+      "nameEn": "Tuvalu",
+      "nameRu": "Тувалу",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TW",
+      "nameEn": "Taiwan",
+      "nameRu": "Тайвань",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "TZ",
+      "nameEn": "Tanzania",
+      "nameRu": "Танзания",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "UA",
+      "nameEn": "Ukraine",
+      "nameRu": "Украина",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "UG",
+      "nameEn": "Uganda",
+      "nameRu": "Уганда",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "UM",
+      "nameEn": "U.S. Outlying Islands",
+      "nameRu": "Внешние малые о-ва (США)",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "US",
+      "nameEn": "United States",
+      "nameRu": "Соединенные Штаты",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "UY",
+      "nameEn": "Uruguay",
+      "nameRu": "Уругвай",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "UZ",
+      "nameEn": "Uzbekistan",
+      "nameRu": "Узбекистан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "VA",
+      "nameEn": "Vatican City",
+      "nameRu": "Ватикан",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "VC",
+      "nameEn": "St. Vincent & Grenadines",
+      "nameRu": "Сент-Винсент и Гренадины",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "VE",
+      "nameEn": "Venezuela",
+      "nameRu": "Венесуэла",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "VG",
+      "nameEn": "British Virgin Islands",
+      "nameRu": "Виргинские о-ва (Великобритания)",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "VI",
+      "nameEn": "U.S. Virgin Islands",
+      "nameRu": "Виргинские о-ва (США)",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "VN",
+      "nameEn": "Vietnam",
+      "nameRu": "Вьетнам",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "VU",
+      "nameEn": "Vanuatu",
+      "nameRu": "Вануату",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "WF",
+      "nameEn": "Wallis & Futuna",
+      "nameRu": "Уоллис и Футуна",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "WS",
+      "nameEn": "Samoa",
+      "nameRu": "Самоа",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "XK",
+      "nameEn": "Kosovo",
+      "nameRu": "Косово",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": false
+    },
+    {
+      "code": "YE",
+      "nameEn": "Yemen",
+      "nameRu": "Йемен",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "YT",
+      "nameEn": "Mayotte",
+      "nameRu": "Майотта",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ZA",
+      "nameEn": "South Africa",
+      "nameRu": "Южно-Африканская Республика",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ZM",
+      "nameEn": "Zambia",
+      "nameRu": "Замбия",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    },
+    {
+      "code": "ZW",
+      "nameEn": "Zimbabwe",
+      "nameRu": "Зимбабве",
+      "centroidLon": null,
+      "centroidLat": null,
+      "isoAssigned": true
+    }
+  ]
+}

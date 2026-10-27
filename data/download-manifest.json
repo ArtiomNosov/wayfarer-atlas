@@ -1,0 +1,65 @@
+{
+  "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+  "upstreamCommit": "3287b1d867d73507e5794f11c17e5df4ed11b36d",
+  "visaGitBlobVerified": "11aaef005c78fe022abb09b62def256ea94d3e0e",
+  "naturalEarthCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+  "visaRuleVerificationDates": "Copied only from upstream row verified; missing dates remain null",
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/main/data/visa-requirements.json",
+      "file": "sources/visa-requirements.json",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "98752be3a1fb5695e85f2958894db109270a1ca0035f9e8ff4981fcd8f6c318a",
+      "bytes": 2931593
+    },
+    {
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/commits/main",
+      "file": "sources/visa-commit.json",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "67f9222baa76c95e7b80e13eb8122491fcc82ee6e6c5ce09793167600333d385",
+      "bytes": 9314
+    },
+    {
+      "url": "https://api.github.com/repos/maxix7/visa-requirements-dataset/git/trees/3287b1d867d73507e5794f11c17e5df4ed11b36d?recursive=1",
+      "file": "sources/visa-tree.json",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "988667a45acb091a8f292267e58e8a4f7c4e17f2897d82e7b3cfecd34c00f1c2",
+      "bytes": 5511
+    },
+    {
+      "url": "https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/main/LICENSE",
+      "file": "sources/visa-requirements-CC-BY-4.0.txt",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "f4150b1ebfed35117d9baa5d92d055ec14f1dbaf1cc107729cac8a09505a8f91",
+      "bytes": 3122
+    },
+    {
+      "url": "https://raw.githubusercontent.com/imorte/passport-index-data/master/LICENSE",
+      "file": "sources/passport-index-MIT.txt",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "da3ece2d2daf5c812c8606d2922094f51818258d4ce0e041b4ee8409ba3b381f",
+      "bytes": 1056
+    },
+    {
+      "url": "https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/main/data/datapackage.json",
+      "file": "sources/visa-datapackage.json",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "45d9090be493e48226f27a554ef05b47ee470e78eb4c26e944e658060e75ae09",
+      "bytes": 6932
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+      "file": "sources/ne_110m_admin_0_countries.geojson",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+      "bytes": 838726
+    },
+    {
+      "url": "https://api.github.com/repos/nvkelso/natural-earth-vector/commits/master",
+      "file": "sources/natural-earth-commit.json",
+      "retrievedAt": "2026-10-25T17:36:28.510787+00:00",
+      "sha256": "af82eb15cf0c11e04f5b17d878c625e9a3350cb8128bbc226bece17ea02f750a",
+      "bytes": 4826
+    }
+  ]
+}

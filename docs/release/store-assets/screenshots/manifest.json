@@ -1,0 +1,90 @@
+[
+  {
+    "file": "en-01-explore.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 241914,
+    "sha256": "82a9ef380868c4dca6febe612cee485caa126c010c967a5981996b3ade76f90f",
+    "nativeCaptureSha256": "081bfcaa8d3b44a9e6bbf259830651ed530df77e755b83832478277aec9b26ba",
+    "language": "en",
+    "screen": "explore"
+  },
+  {
+    "file": "en-02-compare.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 169315,
+    "sha256": "69f915a4edcd7e732b152862e8df851625fa457d530665c966aa8a66daa53d53",
+    "nativeCaptureSha256": "664ac6ea59eff6c57a563c7aa5c64648e4a8d9f44e89d6b96f7539d04c094332",
+    "language": "en",
+    "screen": "compare"
+  },
+  {
+    "file": "en-03-ranking.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 211562,
+    "sha256": "f54a1f53b766d6d49716b4f55364251251a6152aeb40f18cc109419a72a58fba",
+    "nativeCaptureSha256": "e7292bdb5a5b8a1da841e05a77de38f3115bd4b6ae504478df7f6b4d77f2ff1f",
+    "language": "en",
+    "screen": "ranking"
+  },
+  {
+    "file": "en-04-trips.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 111038,
+    "sha256": "3af450d92fb18e64401b2ebae1cf8fb2a731f6f1e0c501228fc358267b9837bb",
+    "nativeCaptureSha256": "8ceebf9778b19eb7ce87ab6717e409278e015d7368d29cbd0ff88430c4e4001c",
+    "language": "en",
+    "screen": "trips"
+  },
+  {
+    "file": "ru-01-explore.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 229348,
+    "sha256": "987c396e740623e41ad554688b91b135aabc19a40f66b81bd0714ecdf13dfc0b",
+    "nativeCaptureSha256": "52566ee736bfc5bfce2295fc7de717393cb8439b7c2209fd051cc577054a78c2",
+    "language": "ru",
+    "screen": "explore"
+  },
+  {
+    "file": "ru-02-compare.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 167865,
+    "sha256": "5146de586e1298a4007f15e15850f4bc2c8a3d42d12b97e3bc1119ccd4c8f7d6",
+    "nativeCaptureSha256": "4aaff678b74f04718bf7b67376b461430f62729844586aed39c2897b88f2588c",
+    "language": "ru",
+    "screen": "compare"
+  },
+  {
+    "file": "ru-03-ranking.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 218707,
+    "sha256": "3a0e771067aadb8ee40bf12982e8ece895b428faea6e43195513befed1415f95",
+    "nativeCaptureSha256": "0aec72e763a11a549eaf9f6275a400ccce73846264da280f7a6b62174e818d8e",
+    "language": "ru",
+    "screen": "ranking"
+  },
+  {
+    "file": "ru-04-trips.png",
+    "width": 1080,
+    "height": 1920,
+    "format": "24-bit RGB PNG; no alpha",
+    "bytes": 129970,
+    "sha256": "1823ef2f305c19c6a3488011835e3a935b897793335248dfa97db70e42d3ba6e",
+    "nativeCaptureSha256": "2dae6ff8ec41b04f644a2a08dcc03eb51f72ea08114df4f379f2fb84bfa9ccab",
+    "language": "ru",
+    "screen": "trips"
+  }
+]

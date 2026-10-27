@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-26",
+  "bundled": {
+    "countries": {
+      "file": "countries.json",
+      "records": 250,
+      "codeSource": "IANA tzdata iso3166.tab, local system copy",
+      "codeSourceUrl": "https://data.iana.org/time-zones/tzdb/iso3166.tab",
+      "codeSourceDate": "2025-07-01",
+      "codeListReferenceDate": "2024-02-29",
+      "extraCode": "XK (CLDR user-assigned code for Kosovo; not ISO-assigned)",
+      "codeLicense": "Public domain (explicit declaration in source file)",
+      "nameSource": "Unicode CLDR 48.0 via ICU 78.3, Node.js v24.22.1 Intl.DisplayNames",
+      "nameSourceUrl": "https://github.com/unicode-org/cldr",
+      "nameLicense": "Unicode-3.0",
+      "nameLicenseUrl": "https://www.unicode.org/license.txt",
+      "nameLicenseFile": "Unicode-3.0.txt",
+      "coordinates": "Not bundled; null is intentional and does not imply [0, 0]."
+    },
+    "rules": {
+      "file": "rules.json",
+      "records": 38612,
+      "origins": 197,
+      "destinations": 197,
+      "source": "Visa Requirements Dataset, VisaChecker.org",
+      "sourceUrl": "https://github.com/maxix7/visa-requirements-dataset",
+      "sourceVersion": "2026-08-11",
+      "sourceUpdatedAt": "2026-08-10",
+      "sourceSnapshotAt": "2026-08-10",
+      "sourceCommit": "3287b1d867d73507e5794f11c17e5df4ed11b36d",
+      "sourceSha256": "98752be3a1fb5695e85f2958894db109270a1ca0035f9e8ff4981fcd8f6c318a",
+      "normalizedSha256": "cc48dfd1b18125f0a32e9f704e7ad1b062dd8013c406e4bd401c138902f6d7d5",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseFile": "sources/visa-requirements-CC-BY-4.0.txt",
+      "attributionFile": "data-attribution.txt",
+      "upstreamBase": {
+        "source": "imorte/passport-index-data (original scraper origin: passportindex.org)",
+        "snapshotAt": "2026-02-17",
+        "license": "MIT",
+        "licenseFile": "sources/passport-index-MIT.txt"
+      },
+      "individuallyVerifiedRows": 38,
+      "rowsWithPrimarySource": 177,
+      "verificationDateRange": {
+        "earliest": "2026-05-11",
+        "latest": "2026-08-10"
+      },
+      "unknownCategories": 0,
+      "scope": "Ordinary passport, tourism, single entry, direct arrival, no transit. No residence-permit alternatives, rolling-window limits or conditions of admissibility.",
+      "status": "Real source downloaded and Git blob verified. Most pairs have no individual verification; do not imply current official coverage. Dates were copied only when supplied."
+    },
+    "geometry": {
+      "file": "world.geojson",
+      "features": 175,
+      "rawFeatures": 177,
+      "sourceUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+      "termsUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "license": "Public domain",
+      "sha256": "dda299cda3c22b673593b57a6c3b183270b28d26200adf4432ed23729c277bbc",
+      "scale": "1:110m",
+      "status": "Downloaded and normalized. Natural Earth de facto boundaries; small territories may have no polygon. Two unassigned-code features omitted, no substitute borders invented."
+    }
+  },
+  "candidates": [
+    {
+      "id": "doineedvisa",
+      "kind": "visa_mcp",
+      "url": "https://doineedvisa.to/docs",
+      "keyRequired": false,
+      "downloadVerified": false,
+      "notes": "Only MCP https://mcp.doineedvisa.to allows anonymous access, limited to 20 calls/day/network identifier. REST https://api.doineedvisa.to requires a key obtained by email even on its 300 requests/month free tier. MCP is not a drop-in REST feed and is not activated. Data derives from imorte/passport-index-data plus curated official-source verification."
+    }
+  ],
+  "excluded": [
+    {
+      "id": "rest-countries-hosted",
+      "reason": "October 2026 hosted service requires a key and human signup; terms prohibit offline/bulk dataset redistribution. Use CLDR instead.",
+      "sourceUrl": "https://restcountries.com/legal/terms-of-service"
+    },
+    {
+      "id": "passportbase-production",
+      "reason": "Free sandbox is 100 requests/month; production is paid. Does not satisfy fully free production use.",
+      "sourceUrl": "https://passportbase.com/api-access"
+    }
+  ],
+  "refresh": {
+    "configurationFile": "update-source.json",
+    "adapter": "CommunityMatrixParser",
+    "mode": "Explicit user action; anonymous HTTPS public static JSON; no user travel data sent",
+    "format": "visachecker-community-v1",
+    "url": "https://raw.githubusercontent.com/maxix7/visa-requirements-dataset/main/data/visa-requirements.json",
+    "checkedAtPolicy": "Only row verified; never download or compile time"
+  },
+  "officialSupplements": {
+    "catalog": "official-sources.json",
+    "scope": "Government snapshots merged independently over community; contradictory government rows remain unknown",
+    "hongKong": {
+      "records": 207,
+      "sourceAsAt": "2025-12-31",
+      "checkedAt": "2026-10-26",
+      "provenance": "sources/hong-kong-provenance.json",
+      "runtimeUpdates": true
+    },
+    "newZealand": {
+      "records": 60,
+      "checkedAt": "2026-10-26",
+      "provenance": "sources/new-zealand-waiver-reviewed.json",
+      "runtimeUpdates": false
+    },
+    "macao": {
+      "records": 1,
+      "checkedAt": "2026-10-26",
+      "provenance": "sources/macao-russia-reviewed.json",
+      "runtimeUpdates": false
+    },
+    "combined": {
+      "rules": 38822,
+      "origins": 213,
+      "destinations": 199
+    }
+  }
+}

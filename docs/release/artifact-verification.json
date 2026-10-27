@@ -1,0 +1,318 @@
+{
+  "apkSignature": {
+    "passed": true,
+    "exitCode": 0
+  },
+  "apkZipAlignment16k": {
+    "passed": true,
+    "exitCode": 0
+  },
+  "aabSignature": {
+    "passed": true,
+    "exitCode": 0,
+    "notes": "Self-signed upload certificate, no timestamp. AGP ZIP ordering causes a JarInputStream warning; signed entries verify using JarFile. Run bundletool validate separately."
+  },
+  "nativeLibraries": [
+    {
+      "name": "lib/arm64-v8a/libandroidx.graphics.path.so",
+      "passed": true,
+      "segments": [
+        {
+          "type": 6,
+          "flags": 4,
+          "start": 64,
+          "size": 504,
+          "alignment": 8
+        },
+        {
+          "type": 1,
+          "flags": 5,
+          "start": 0,
+          "size": 7232,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 23616,
+          "size": 912,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 40912,
+          "size": 16,
+          "alignment": 16384
+        },
+        {
+          "type": 2,
+          "flags": 6,
+          "start": 24000,
+          "size": 448,
+          "alignment": 8
+        },
+        {
+          "type": 1685382482,
+          "flags": 4,
+          "start": 23616,
+          "size": 960,
+          "alignment": 1
+        },
+        {
+          "type": 1685382480,
+          "flags": 4,
+          "start": 3172,
+          "size": 52,
+          "alignment": 4
+        },
+        {
+          "type": 1685382481,
+          "flags": 6,
+          "start": 0,
+          "size": 0,
+          "alignment": 0
+        },
+        {
+          "type": 4,
+          "flags": 4,
+          "start": 568,
+          "size": 188,
+          "alignment": 4
+        }
+      ]
+    },
+    {
+      "name": "lib/armeabi-v7a/libandroidx.graphics.path.so",
+      "passed": true,
+      "segments": [
+        {
+          "type": 6,
+          "flags": 4,
+          "start": 52,
+          "size": 288,
+          "alignment": 4
+        },
+        {
+          "type": 1,
+          "flags": 5,
+          "start": 0,
+          "size": 5312,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 21696,
+          "size": 460,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 38540,
+          "size": 8,
+          "alignment": 16384
+        },
+        {
+          "type": 2,
+          "flags": 6,
+          "start": 21888,
+          "size": 224,
+          "alignment": 4
+        },
+        {
+          "type": 1685382482,
+          "flags": 4,
+          "start": 21696,
+          "size": 2880,
+          "alignment": 1
+        },
+        {
+          "type": 1685382481,
+          "flags": 6,
+          "start": 0,
+          "size": 0,
+          "alignment": 0
+        },
+        {
+          "type": 4,
+          "flags": 4,
+          "start": 340,
+          "size": 188,
+          "alignment": 4
+        },
+        {
+          "type": 1879048193,
+          "flags": 4,
+          "start": 1504,
+          "size": 48,
+          "alignment": 4
+        }
+      ]
+    },
+    {
+      "name": "lib/x86/libandroidx.graphics.path.so",
+      "passed": true,
+      "segments": [
+        {
+          "type": 6,
+          "flags": 4,
+          "start": 52,
+          "size": 320,
+          "alignment": 4
+        },
+        {
+          "type": 1,
+          "flags": 5,
+          "start": 0,
+          "size": 7456,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 23840,
+          "size": 456,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 40680,
+          "size": 8,
+          "alignment": 16384
+        },
+        {
+          "type": 2,
+          "flags": 6,
+          "start": 24032,
+          "size": 224,
+          "alignment": 4
+        },
+        {
+          "type": 1685382482,
+          "flags": 4,
+          "start": 23840,
+          "size": 736,
+          "alignment": 1
+        },
+        {
+          "type": 1685382480,
+          "flags": 4,
+          "start": 2168,
+          "size": 52,
+          "alignment": 4
+        },
+        {
+          "type": 1685382481,
+          "flags": 6,
+          "start": 0,
+          "size": 0,
+          "alignment": 0
+        },
+        {
+          "type": 4,
+          "flags": 4,
+          "start": 372,
+          "size": 152,
+          "alignment": 2
+        },
+        {
+          "type": 4,
+          "flags": 4,
+          "start": 524,
+          "size": 36,
+          "alignment": 4
+        }
+      ]
+    },
+    {
+      "name": "lib/x86_64/libandroidx.graphics.path.so",
+      "passed": true,
+      "segments": [
+        {
+          "type": 6,
+          "flags": 4,
+          "start": 64,
+          "size": 560,
+          "alignment": 8
+        },
+        {
+          "type": 1,
+          "flags": 5,
+          "start": 0,
+          "size": 7872,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 24256,
+          "size": 936,
+          "alignment": 16384
+        },
+        {
+          "type": 1,
+          "flags": 6,
+          "start": 41576,
+          "size": 16,
+          "alignment": 16384
+        },
+        {
+          "type": 2,
+          "flags": 6,
+          "start": 24664,
+          "size": 448,
+          "alignment": 8
+        },
+        {
+          "type": 1685382482,
+          "flags": 4,
+          "start": 24256,
+          "size": 4416,
+          "alignment": 1
+        },
+        {
+          "type": 1685382480,
+          "flags": 4,
+          "start": 3368,
+          "size": 52,
+          "alignment": 4
+        },
+        {
+          "type": 1685382481,
+          "flags": 6,
+          "start": 0,
+          "size": 0,
+          "alignment": 0
+        },
+        {
+          "type": 4,
+          "flags": 4,
+          "start": 624,
+          "size": 152,
+          "alignment": 2
+        },
+        {
+          "type": 4,
+          "flags": 4,
+          "start": 776,
+          "size": 36,
+          "alignment": 4
+        }
+      ]
+    }
+  ],
+  "runtime16kDeviceTested": false,
+  "artifacts": {
+    "app-release.apk": {
+      "bytes": 2270132,
+      "sha256": "d579149981b7972fd263dcecfe8f004e1f823efb2ab0c06a0a058c6ed29f30ca"
+    },
+    "app-release.aab": {
+      "bytes": 4418806,
+      "sha256": "0b94d2ff4c8cb18cce6cf40793d76a28fa985c2b6246c2dbedb453ba4ee8ee43"
+    }
+  }
+}
